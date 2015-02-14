@@ -1,0 +1,59 @@
+body{background-color: #145C9E;}
+
+wrap{}
+
+header{text-align: center;}
+
+.title{
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+.title a{
+    text-decoration: none;
+    color: black;
+}
+
+.title a:hover{
+    text-decoration: none;
+    color: orange;
+}
+
+.type-text{color: orange;}
+
+.nav{}
+.navBar{padding-top: 1em;}
+.navItem{
+    display: inline;
+    padding: 3em;
+}
+.navItem a{
+    color: black;
+    text-decoration: none;
+}
+.navItem a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.slideshow {
+    padding-top: 2em;
+    width: 100%; }
+
+.slick-slide {
+    width: 100%; }
+
+.slideshow img {
+    object-fit: contain;
+    width: 100%; }
+
+.content{
+    text-align: center;
+    margin: 10em;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
