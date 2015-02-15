@@ -33,6 +33,7 @@ header{
 .title a{
     text-decoration: none;
     color: hsla(210, 50%, 70%, 1);
+    font: 400 95px/1.6 'Pacifico', Georgia, serif;;
 }
 
 .title a:hover{
@@ -85,8 +86,10 @@ header{
     margin: 5em;
     color: hsla(210, 50%, 15%, 1);
     line-height: 1.5rem;
-    font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+    
 }
+
+.text{font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;}
 
 footer{
     text-align: center;
