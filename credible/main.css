@@ -26,14 +26,14 @@ header{
 }
 
 .title{
-    font: 400 50px/1.6 'Pacifico', Georgia, serif;;
+    font: 400 60px/1.6 'Pacifico', Georgia, serif;;
     padding-top: 10px;
 }
 
 .title a{
     text-decoration: none;
     color: hsla(210, 50%, 70%, 1);
-    font: 400 50px/1.6 'Pacifico', Georgia, serif;;
+    font: 400 60px/1.6 'Pacifico', Georgia, serif;;
 }
 
 .title a:hover{
