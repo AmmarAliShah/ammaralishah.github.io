@@ -3,18 +3,14 @@ html {
     font-size: 18px;
 }
 
-h1 {
-    font-size: 3rem;
-}
+h1 {font-size: 3rem;}
 
 h2 {
     font-size: 2rem;
     line-height: 2em;
 }
 
-body{
-    background-color: hsla(210, 50%, 70%, 1);
-}
+body{background-color: hsla(210, 50%, 70%, 1);}
 
 wrap{}
 
@@ -27,7 +23,7 @@ header{
 
 .title{
     font: 400 70px/1.6 'Pacifico', Georgia, serif;;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .title a{
