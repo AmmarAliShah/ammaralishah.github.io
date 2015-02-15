@@ -106,4 +106,5 @@ footer a{
 
 footer a:hover{
     text-decoration: line-through;
+    color: red;
 }
