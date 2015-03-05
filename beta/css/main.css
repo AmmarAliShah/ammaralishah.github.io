@@ -31,7 +31,13 @@ h1{
 /*About Section Styling*/
 .about{text-align: center;}
 .me{
-  padding: 15px 0 0 0;
+  padding: 15px 0 15px 0;
   width: 50%;
   height: 50%;
+}
+.bio{}
+/*Footer Section Styling*/
+.footer{
+  text-align: center;
+  padding: 20px 0 0 0;
 }
