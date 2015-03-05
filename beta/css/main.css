@@ -27,3 +27,11 @@ h1{
   text-align: center;
   padding: 8px 0 0 0;
 }
+
+/*About Section Styling*/
+.about{text-align: center;}
+.me{
+  padding: 15px 0 0 0;
+  width: 50%;
+  height: 50%;
+}
