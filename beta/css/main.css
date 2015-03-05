@@ -1,14 +1,25 @@
 body{}
+.wrap{}
 
 /*Navigation Section Styling*/
-.nav{padding-top: 10px;}
-.navBar{}
+.nav{
+  padding: 10px 0 5px 0;
+  background-color: grey;
+}
+.navBar{text-align: center;}
 .navItem{
   display: inline;
-  padding: 0px 15px 0 5px;
+  padding: 0px 15px 5px; 5px;
 }
 .navItem a{
   text-decoration: none;
   color: silver;
 }
 .navItem a:hover{color: black;}
+
+/*Header Section Styling*/
+h1{
+  font-size: 50px;
+  text-align: center;
+  padding: 8px 0 0 0;
+}
