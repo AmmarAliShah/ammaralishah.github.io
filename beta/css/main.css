@@ -1,8 +1,4 @@
-body{
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
+body{}
 a{
   text-decoration: none;
   color: red;
@@ -11,7 +7,11 @@ a:hover {
   text-decoration: underline;
   color: black;
 }
-.wrap{flex: 1;}
+.wrap{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
 
 /*Navigation Section Styling*/
 .nav{
@@ -41,7 +41,10 @@ h1{
 }
 
 /*About Section Styling*/
-.about{text-align: center;}
+.about{
+  text-align: center;
+  flex: 1;
+}
 .me{
   padding: 15px 0 15px 0;
   width: 50%;
@@ -55,3 +58,6 @@ h1{
   padding: 20px 0 10px 0;
   background-color: grey;
 }
+
+/*Contact Section Styling*/
+.contact{flex: 1;}
