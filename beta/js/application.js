@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('h1').on("click", function(){
-    $(this).addClass('animated flash');
+  $('h1').on("mouseenter", function(){
+    $(this).toggleClass('animated flash');
   });
 });
