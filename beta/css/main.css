@@ -1,0 +1,14 @@
+body{}
+
+/*Navigation Section Styling*/
+.nav{padding-top: 10px;}
+.navBar{}
+.navItem{
+  display: inline;
+  padding: 0px 15px 0 5px;
+}
+.navItem a{
+  text-decoration: none;
+  color: silver;
+}
+.navItem a:hover{color: black;}
