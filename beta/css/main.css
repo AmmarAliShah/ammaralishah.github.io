@@ -58,7 +58,13 @@ h1{
   padding: 20px 0 10px 0;
   background-color: grey;
 }
-.icons a{color: grey;}
+.icon-facebook-alt{color: white;}
+.icon-twitter-alt{color: white;}
+.icon-github-alt{color: white;}
+.icon-linkedin-alt{color: white;}
+.icon-youtube-alt{color: white;}
+.icon-soundcloud{color: white;}
+.icon-mail{color: white;}
 
 /*Contact Section Styling*/
 .contact{flex: 1;}
