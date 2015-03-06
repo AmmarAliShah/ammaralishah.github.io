@@ -1,3 +1,4 @@
+/*Universal Styling*/
 body{}
 a{
   text-decoration: none;
@@ -12,6 +13,7 @@ a:hover {
   min-height: 100vh;
   flex-direction: column;
 }
+.red{color: red;}
 
 /*Navigation Section Styling*/
 .nav{
@@ -51,6 +53,9 @@ h1{
   height: 50%;
 }
 .bio{padding-bottom: 1em;}
+
+/*Portfolio Section Styling*/
+.portfolio{flex: 1;}
 
 /*Footer Section Styling*/
 .footer{
