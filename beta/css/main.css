@@ -58,13 +58,34 @@ h1{
   padding: 20px 0 10px 0;
   background-color: grey;
 }
-.icon-facebook-alt{color: white;}
-.icon-twitter-alt{color: white;}
-.icon-github-alt{color: white;}
-.icon-linkedin-alt{color: white;}
-.icon-youtube-alt{color: white;}
-.icon-soundcloud{color: white;}
-.icon-mail{color: white;}
+.icon-facebook-alt{
+  color: white;
+  font-size: 25px;
+}
+.icon-twitter-alt{
+  color: white;
+  font-size: 25px;
+}
+.icon-github-alt{
+  color: white;
+  font-size: 25px;
+}
+.icon-linkedin-alt{
+  color: white;
+  font-size: 25px;
+}
+.icon-youtube-alt{
+  color: white;
+  font-size: 25px;
+}
+.icon-soundcloud{
+  color: white;
+  font-size: 25px;
+}
+.icon-mail{
+  color: white;
+  font-size: 25px;
+}
 
 /*Contact Section Styling*/
 .contact{flex: 1;}
