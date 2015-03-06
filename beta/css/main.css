@@ -58,6 +58,7 @@ h1{
   padding: 20px 0 10px 0;
   background-color: grey;
 }
+.icons a{color: grey;}
 
 /*Contact Section Styling*/
 .contact{flex: 1;}
