@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ammar Shah's blog</title>
+    <atom:link href="http://ammaralishah.github.io/blog/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://ammaralishah.github.io/blog</link>
+    <description>Tech, Code, Open-Source and more...</description>
+    <pubDate>Sun, 22 Feb 2015 16:00:00 -0800</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>A dozen tabs…</title>
+      <link>http://ammaralishah.github.io/blog/articles/a-dozen-tabs/</link>
+      <pubDate>Sun, 22 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://ammaralishah.github.io/blog/articles/a-dozen-tabs/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/a-dozen-tabs/intro.png&quot; alt=&quot;into&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I &lt;del&gt;like&lt;/del&gt; love to read. Books, articles, stories, you name it. I don’t always read, only when I’m in &lt;strong&gt;“the zone“&lt;/strong&gt;, and as soon as I’m in, I can easily suck in an hour or so just on article reading. I have folders in my bookmark bar on &lt;a href=&quot;https://www.google.com/chrome/browser/desktop/index.html&quot;&gt;Chrome&lt;/a&gt; dedicated to the purpose of reading:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/a-dozen-tabs/bookmark-bar.png&quot; alt=&quot;Bookmark Bar&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>What it took to start this blog</title>
+      <link>http://ammaralishah.github.io/blog/articles/what-it-took-to-start-this-blog/</link>
+      <pubDate>Sun, 08 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://ammaralishah.github.io/blog/articles/what-it-took-to-start-this-blog/</guid>
+      <author></author>
+      <description>&lt;p&gt;In the previous post I mentioned that I had to face some problems to set up this blog and as promised, I’m going to be explaining those now.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;wordpress-my-first-choice&quot;&gt;WordPress my first choice&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/what-it-took-to-start-this-blog/wordpress-org.png&quot; alt=&quot;WordPress&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As soon as I thought of starting this blog, the CMS that came into my mind was WordPress. After all, I had been using WordPress for over an year in other blogs and was comfortable with its interface. I set up WordPress easily on my server and got started. I wanted to find a good looking theme so I started searching the web and found a few that I liked. At this point my troubles started. I couldn’t install any of the themes or plugins, WordPress gave me an error each time. Another thing I noticed that WordPress was also slow. This was enough of a reason to make me switch.&lt;/p&gt;
+&lt;h1 id=&quot;ghost&quot;&gt;Ghost&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/what-it-took-to-start-this-blog/ghost.png&quot; alt=&quot;Ghost&quot;&gt;&lt;/p&gt;
+&lt;p&gt;My second solution for  CMS was Ghost. I had never used Ghost before but had seen it in action and really liked the clean, content focused interfaced. I excitedly went over to the Ghost site downloaded the code and uploaded it to my server. When i went to set up Ghost, I found out that instead of a setup page, I was getting a file directory. I hurriedly went over to my old pal Google and just in a few searches learned that Ghost is a JavaScript based CMS, unlike WordPress which is in PHP, and does not work on shared-hosting services such as the one I was/am using. I was heartbroken. I tried many workarounds to it but failed in them all. So I just gave up on Ghost and came back to WordPress only to face the same problems as before.&lt;/p&gt;
+&lt;h1 id=&quot;modx&quot;&gt;MODX&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/what-it-took-to-start-this-blog/modx.png&quot; alt=&quot;MODX&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After my failure with Ghost, I did what anyone would do and googled for other popular CMS. I found many and also gave them a try but I didn’t like any one of them: some had a bad UI, some had a bad UX, some had bad both and some left me to write most of the code. I got fed up with this and just decided to either use WordPress or postpone this blog for later. Tired, I fired up Twitter and began scanning through tweets re-tweeting where needed. I was doing this when I stumbled upon a link to MODX. I was desperate so I downloaded it and gave it a try. It was much more larger then WordPress and took much longer to upload. When it finally uploaded, I had problem setting it up – it would throw an error every time i tried to access it. I turned toward my good friend Google again and began reading. After just a few articles, I found my problem – I had to set up something I can’t remember. I went through the setup and was ready to blog. I liked the dashboard of MODX and was excited to start blogging but now here came the problem – where do i write? I went over to MODX documentation this time and began going through it. After five minutes, I realized that MODX was one of those CMS that wanted you to write your own code. Frustrated, I decided to postpone this blog.&lt;/p&gt;
+&lt;h1 id=&quot;back-to-wordpress&quot;&gt;Back to WordPress&lt;/h1&gt;
+&lt;p&gt;I never really forgot about the blog: everyday i would google looking for new CMS but this time didn’t try them but Googled to see what other people though of them. I went with none of them though. After just a few days, I decided I can go with WordPress if I just use the default theme. I set up WordPress again but didn’t post anything and left it there.&lt;/p&gt;
+&lt;h1 id=&quot;current-state&quot;&gt;Current state&lt;/h1&gt;
+&lt;p&gt;This was about 2 or 3 months ago. My server still has Ghost and MODX uploaded in it, but I don’t care. I’m going to use WordPress till I move onto either Ghost or a static site generator. I could also build my own CMS but that can only be done in summer when I don’t have school to worry about. Right now, I’m running WordPress with its default theme. It isn’t bad but it isn’t great either. I’m going to try to switch as soon as I can so I don’t have to go over the process of transferring too much data to whatever CMS I’m going to use.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/what-it-took-to-start-this-blog/server.png&quot; alt=&quot;My public_html folder right now&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Well this is it – what it took to start this blog. I hope I do make good use of it after all the trouble of setting it up. I’m going to be making the most of this and styling/customizing this to my needs before I move onto another CMS.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Ello World...</title>
+      <link>http://ammaralishah.github.io/blog/articles/ello-world/</link>
+      <pubDate>Fri, 06 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://ammaralishah.github.io/blog/articles/ello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;I write this in a Chrome window that is taking up about 50% of my screen. What’s on the other 50% you ask? It’s &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 2&lt;/a&gt;. I’m not a fan of Sublime Text, nor do I use it everyday. I’m more of a &lt;a href=&quot;http://brackets.io/&quot;&gt;Brackets&lt;/a&gt; kind of guy, but I have Sublime open right now because I’m writing some &lt;a href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt; code and I like to use Sublime Text for it. I don’t know why but I just write my Python code in Sublime Text. I even found this new shortcut just now that let’s you run the code in a console directly inside of Sublime. It’s &lt;em&gt;Ctrl + B&lt;/em&gt;. Now I don’t have to fire up the terminal to see the result of my code, I can view it directly inside of Sublime. Another reason to use Sublime for Python.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/ello-world/screen.png&quot; alt=&quot;My Current Screen&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Now that’s enough of what I’m doing right now. This post is technically my first post for this blog. My first post could have been months ago when I actually set up this blog but I never got time to write one. I didn’t even have time to design a website for myself. &lt;strong&gt;My website sits empty with a Coming Soon page&lt;/strong&gt;. I have a copy of the old designs, but I just don’t want to put them back up. I’m going to build a new one as soon as I get time but in the meantime, I can still use this blog. I’m running it on WordPress and I didn’t even bother with the styling. I want this blog to be simple and just serve it’s purpose, i.e.  to deliver what I write to you - that’s what blogs are for.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/ello-world/website.png&quot; alt=&quot;My Website right now&quot;&gt;&lt;/p&gt;
+&lt;p&gt;If your thinking something along the lines of: “Oh God, this guy goes on and on and on…”, I would suggest you stop reading this right now! The only reason I started a blog was so that I could portrait my thoughts to the world and if you have a problem with it, just close the tab(Ctrl + W) and don’t come back.&lt;/p&gt;
+&lt;p&gt;Since you did stick around to read the rest of this, I hope you stick around to read my up coming posts. As easy as I made it sound, I had a few problems with setting up this blog and I’ll be talking about them in my next post. Till then, have fun!&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
