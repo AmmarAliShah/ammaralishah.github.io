@@ -1,0 +1,44 @@
+/*
+    Date: 7 January, 2015
+*/
+
+body{
+    background-color: #000;
+}
+
+.content{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color: silver;
+    padding-top: 150px;
+    font-family: cursive;
+}
+
+h2{
+    color: red;
+    font-size: 30px;
+    padding: 25px;
+}
+
+p, a{
+    text-align: center;
+    color: silver;
+    padding-top: 10px;
+}
+.blog a{
+    text-align: right;
+    text-decoration: none;
+}
+
+.blog a:hover{
+    color: red;
+}
+
+.blog {
+    text-align: right;
+    padding-right: 100px;
+    font-size: 1.2em;
+}
