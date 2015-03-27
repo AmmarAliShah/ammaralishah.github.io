@@ -56,6 +56,10 @@ h1{
 
 /*Portfolio Section Styling*/
 .portfolio{flex: 1;}
+.work{
+  background: red;
+  border-radius: 50%;
+}
 
 /*Footer Section Styling*/
 .footer{
