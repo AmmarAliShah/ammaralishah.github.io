@@ -60,6 +60,11 @@ h1{
   background: red;
   border-radius: 50%;
 }
+/*Toolbelt Section Styling*/
+.tb{
+  text-align: center;
+  flex: 1;
+}
 
 /*Footer Section Styling*/
 .footer{
