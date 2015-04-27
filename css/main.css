@@ -1,19 +1,11 @@
 /*Universal Styling*/
 body{}
-a{
-  text-decoration: none;
-  color: red;
-}
-a:hover {
-  text-decoration: underline;
-  color: black;
-}
+
 .wrap{
   display: flex;
   min-height: 100vh;
   flex-direction: column;
 }
-.red{color: red;}
 
 /*Navigation Section Styling*/
 .nav{
@@ -69,37 +61,11 @@ h1{
 /*Footer Section Styling*/
 .footer{
   text-align: center;
-  padding: 20px 0 10px 0;
   background-color: grey;
-}
-.icon-facebook-alt{
-  color: white;
-  font-size: 25px;
-}
-.icon-twitter-alt{
-  color: white;
-  font-size: 25px;
-}
-.icon-github-alt{
-  color: white;
-  font-size: 25px;
-}
-.icon-linkedin-alt{
-  color: white;
-  font-size: 25px;
-}
-.icon-youtube-alt{
-  color: white;
-  font-size: 25px;
-}
-.icon-soundcloud{
-  color: white;
-  font-size: 25px;
-}
-.icon-mail{
-  color: white;
-  font-size: 25px;
 }
 
 /*Contact Section Styling*/
 .contact{flex: 1;}
+
+/*Writing Section Styling*/
+.writing{}
