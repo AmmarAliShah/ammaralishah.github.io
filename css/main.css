@@ -41,8 +41,8 @@ h1{
 }
 .me{
   padding: 15px 0 15px 0;
-  width: 50%;
-  height: 50%;
+  width: 35%;
+  height: 35%;
 }
 .bio{padding-bottom: 1em;}
 
@@ -52,20 +52,13 @@ h1{
   background: red;
   border-radius: 50%;
 }
-/*Toolbelt Section Styling*/
-.tb{
-  text-align: center;
-  flex: 1;
-}
 
 /*Footer Section Styling*/
 .footer{
   text-align: center;
   background-color: grey;
+  padding-top: 1em;
 }
 
 /*Contact Section Styling*/
 .contact{flex: 1;}
-
-/*Writing Section Styling*/
-.writing{}
