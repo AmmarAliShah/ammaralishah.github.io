@@ -11,7 +11,16 @@ config = {
     // Configure your URL and mail settings here
     production: {
         url: 'http://ammaralishah.me',
-        mail: {},
+        mail: {
+            transport: 'SMTP',
+            options: {
+                service: 'Gmail',
+                auth: {
+                    user: 'syedammarali24@gmail.com',
+                    pass: 'ammaralishah'
+                }
+            }
+        }
         database: {
             client: 'sqlite3',
             connection: {
