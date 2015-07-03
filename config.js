@@ -10,17 +10,8 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://ammaralishah.me',
-        mail: {
-            transport: 'SMTP',
-            options: {
-                service: 'Gmail',
-                auth: {
-                    user: 'syedammarali24@gmail.com',
-                    pass: 'ammaralishah'
-                }
-            }
-        }
+        url: 'http://ammaralishah.github.io',
+        mail: {},
         database: {
             client: 'sqlite3',
             connection: {
