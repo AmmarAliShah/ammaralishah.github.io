@@ -6,9 +6,32 @@
 </description>
     <link>http://ammaralishah.me/</link>
     <atom:link href="http://ammaralishah.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jul 2015 16:28:11 +0500</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2015 16:28:11 +0500</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2015 01:33:43 +0500</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2015 01:33:43 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>So it begins</title>
+        <description>&lt;p&gt;I’m growing tired of this! &lt;em&gt;This?&lt;/em&gt; Writing this &lt;code&gt;Hello world&lt;/code&gt; post. I’m writing it for the third time now and this time, I wanted
+to change the title from my classic &lt;code&gt;Ello World&lt;/code&gt;, and so I changed it to this, much better don’t you think?&lt;/p&gt;
+
+&lt;h3&gt;Writing it for the third time?&lt;/h3&gt;
+&lt;p&gt;Yeah. I wrote the first one titled &lt;code&gt;Ello World&lt;/code&gt; back when I started my blog in early 2015 but sadly, &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;I lost it!&lt;/a&gt;. My first blog was based on &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; and hosted for free at &lt;a href=&quot;&quot;&gt;000WebHost&lt;/a&gt;. The problem with this setup was that it was ad-supported and on every refresh or load an ad popped up which was annoying!&lt;/p&gt;
+
+&lt;p&gt;My second blog, sadly never made it to the internet. I set it up a few weeks ago, using &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt; and it was hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;. Now Ghost isn’t natively supported on GitHub pages, as it only allows static sites and Ghost is based on &lt;a href=&quot;https://nodejs.org/&quot;&gt;node.js&lt;/a&gt;. So, I found &lt;a href=&quot;http://leftofnull.com/2014/02/07/using-github-pages-with-ghost-and-buster-on-windows-part-1/index.html&quot;&gt;this post&lt;/a&gt;, that used a set of tools to let you run Ghost on GitHub pages. Following the instructions, I successfully set up Ghost locally on my computer and configured it. That is when I wrote, this post for the second time, titled &lt;code&gt;Ello World...Again&lt;/code&gt;. I ran into a problem with Buster with that setup and after numerous tries I couldn’t fix it. I contacted the author of the post through Twitter, and I even commented on the post, but after a little back and fro, I gave up! I even got a Tweet from someone telling me the CSS on my site was broken - something I didn’t notice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://ammaralishah.me/assets/siteBrokenTweet.jpg)&quot; alt=&quot;The Tweet I got&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 10:38:29 +0500</pubDate>
+        <link>http://ammaralishah.me/blog/updates/2015/07/10/so-it-begins.html</link>
+        <guid isPermaLink="true">http://ammaralishah.me/blog/updates/2015/07/10/so-it-begins.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
