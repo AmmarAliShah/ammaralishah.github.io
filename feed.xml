@@ -6,9 +6,41 @@
 </description>
     <link>http://ammaralishah.me/</link>
     <atom:link href="http://ammaralishah.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jul 2015 02:13:56 +0500</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2015 02:13:56 +0500</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2015 22:36:07 +0500</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2015 22:36:07 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Why I quit Harvard CS50x</title>
+        <description>&lt;p&gt;In my &lt;a href=&quot;/blog/updates/2015/07/10/so-it-begins.html&quot;&gt;last post&lt;/a&gt;, I mentioned I started &lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x&quot;&gt;Harvards CS50x&lt;/a&gt; on edx. Today, I decided to quit it and I un-enrolled from the class on edx. I made the decision after thinking on it long and hard so I’m not regretting what I did. Here’s why I quit:&lt;/p&gt;
+
+&lt;h1 id=&quot;why&quot;&gt;Why?&lt;/h1&gt;
+&lt;p&gt;To sum it up in a line, &lt;em&gt;I didn’t have time for it.&lt;/em&gt; I’m a web developer meaning what I do is related to the web - websites and web-apps. The course teaches C, a language not built for the web. My main focus was learning full-stack JavaScript and not C. When I started the course, I thought I would be able to do complete it without interference to my commitment to &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt;, which is to start the non-profit projects before the end of 2015! Sadly enough, in the past month, I haven’t made much progress there either. CS50x was not in any way my reason for not being able to keep my commitment to freecodecamp, I just got distracted.&lt;/p&gt;
+
+&lt;p&gt;So today, I decided to remove all other distractions from my JavaScript learning path and focus on learning JavaScript. For the rest of they year, I’m going to learn and practice JavaScript only. I won’t play with any other language such as C or Python.&lt;/p&gt;
+
+&lt;h1 id=&quot;aftermath&quot;&gt;Aftermath&lt;/h1&gt;
+&lt;p&gt;So there’s a few things I’ll be doing to keep focused on JavaScript:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’m going to read &lt;a href=&quot;http://eloquentjavascript.net/&quot;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’m going to complete at least one &lt;a href=&quot;http://freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt; challenge every day&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well this is it! Wish me luck!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Jul 2015 12:58:29 +0500</pubDate>
+        <link>http://ammaralishah.me/e-learning/2015/07/25/leaving-cs50x.html</link>
+        <guid isPermaLink="true">http://ammaralishah.me/e-learning/2015/07/25/leaving-cs50x.html</guid>
+        
+        
+        <category>e-learning</category>
+        
+      </item>
     
       <item>
         <title>So it begins</title>
