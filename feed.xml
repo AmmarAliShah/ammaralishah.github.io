@@ -6,8 +6,8 @@
 </description>
     <link>http://ammaralishah.me/</link>
     <atom:link href="http://ammaralishah.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Jul 2015 22:36:07 +0500</pubDate>
-    <lastBuildDate>Sat, 25 Jul 2015 22:36:07 +0500</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2015 19:27:12 +0500</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2015 19:27:12 +0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,9 +29,12 @@
   &lt;li&gt;
     &lt;p&gt;I’m going to complete at least one &lt;a href=&quot;http://freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt; challenge every day&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Every week, i.e every Sunday night, I’ll be posting about my progress of the previous week.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Well this is it! Wish me luck!&lt;/p&gt;
+&lt;p&gt;This is it. By the end of this year, I’ll have made good progress if everything goes as planned :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Jul 2015 12:58:29 +0500</pubDate>
         <link>http://ammaralishah.me/e-learning/2015/07/25/leaving-cs50x.html</link>
@@ -45,16 +48,16 @@
       <item>
         <title>So it begins</title>
         <description>&lt;p&gt;I’m growing tired of this! &lt;em&gt;This?&lt;/em&gt; Writing this &lt;code&gt;Hello world&lt;/code&gt; post. I’m writing it for the third time now and this time, I wanted
-to change the title from my classic &lt;code&gt;Ello World&lt;/code&gt;, and so I changed it to this, much better don’t you think?&lt;/p&gt;
+to change the title from my classic &lt;code&gt;Ello World&lt;/code&gt;, and so I changed it to this - much better don’t you think?&lt;/p&gt;
 
 &lt;h3&gt;Writing it for the third time?&lt;/h3&gt;
-&lt;p&gt;Yeah. I wrote the first one titled &lt;code&gt;Ello World&lt;/code&gt; back when I started my blog in early 2015 but sadly, &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;I lost it!&lt;/a&gt;. My first blog was based on &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; and hosted for free at &lt;a href=&quot;&quot;&gt;000WebHost&lt;/a&gt;. The problem with this setup was that it was ad-supported and on every refresh or load an ad popped up which was annoying!&lt;/p&gt;
+&lt;p&gt;Yeah. I wrote the first one titled &lt;code&gt;Ello World&lt;/code&gt; back when I started my blog in early 2015 but sadly, &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;I lost it!&lt;/a&gt;. My first blog was based on &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; and hosted for free at &lt;a href=&quot;http://www.000webhost.com/690150.html&quot;&gt;000WebHost&lt;/a&gt;. The problem with this setup was that it was ad-supported and on every refresh or load an ad popped up which was annoying!&lt;/p&gt;
 
 &lt;p&gt;My second blog, sadly never made it to the internet. I set it up a few weeks ago, using &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt; and it was hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;. Now Ghost isn’t natively supported on GitHub pages, as it only allows static sites and Ghost is based on &lt;a href=&quot;https://nodejs.org/&quot;&gt;node.js&lt;/a&gt;. So, I found &lt;a href=&quot;http://leftofnull.com/2014/02/07/using-github-pages-with-ghost-and-buster-on-windows-part-1/index.html&quot;&gt;this post&lt;/a&gt;, that used a set of tools to let you run Ghost on GitHub pages. Following the instructions, I successfully set up Ghost locally on my computer and configured it. That is when I wrote, this post for the second time, titled &lt;code&gt;Ello World...Again&lt;/code&gt;. I ran into a problem with Buster with that setup and after numerous tries I couldn’t fix it. I contacted the author of the post through Twitter, and I even commented on the post, but after a little back and fro, I gave up! I even got a Tweet from someone telling me the CSS on my site was broken - something I didn’t notice. So I decided to try something else.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://ammaralishah.me/assets/siteBrokenTweet.jpg&quot; alt=&quot;The Tweet I got&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This brings us to my third and current state, &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Jekyll, is built by &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;, the same company whose service I was using to host my site so I thought you can’t get more compatible than that, right? So I started with Jekyll and again ran into problems with the final site again. So I explored other popular static site generators from the list at &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;StaticGen&lt;/a&gt;. After trying out around a dozen other options and facing the same problem, I concluded I was doing something wrong. So I Googled around, and after a little playing around with Jekyll(actually a lot playing around), I finally nailed it!&lt;/p&gt;
+&lt;p&gt;This brings us to my third and current state, &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Jekyll, is built by &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;, the same company whose service I was using to host my site so I thought you can’t get more compatible than that, right? So I started with Jekyll and ran into problems with the final site again. So I explored other popular static site generators from the list at &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;StaticGen&lt;/a&gt;. After trying out around a dozen other options and facing the same problem, I concluded I was doing something wrong. So I Googled around, and after a little playing around with Jekyll(actually a lot playing around), I finally nailed it!&lt;/p&gt;
 
 &lt;h3&gt;So now what?&lt;/h3&gt;
 &lt;p&gt;Now I plan on sticking with this for a while. I don’t know for sure right now, but I will re-designt the site in the future, but right now, I don’t have the time or the energy to do so.&lt;/p&gt;
