@@ -4,7 +4,7 @@
  <title>Ammar Shah</title>
  <link href="http://ammaralishah.me/atom.xml" rel="self"/>
  <link href="http://ammaralishah.me/"/>
- <updated>2015-09-27T00:19:57+05:00</updated>
+ <updated>2015-09-27T11:53:33+05:00</updated>
  <id>http://ammaralishah.me</id>
  <author>
    <name>Ammar Shah</name>
@@ -23,7 +23,7 @@
 &lt;p&gt;The time has come for me to admit my crimes:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I haven&amp;#39;t been loyal to this blog and to the people who read it. In my &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins.html&quot;&gt;very first post&lt;/a&gt;, I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when &lt;a href=&quot;http://ammaralishah.me/2015/07/25/leaving-cs50x.html&quot;&gt;I quit CS50&lt;/a&gt;, I made yet another promise that I would post about my code journey every week. I haven&amp;#39;t been able to fulfill either of those promises :-(&lt;/p&gt;
+&lt;p&gt;I haven&amp;#39;t been loyal to this blog and to the people who read it. In my &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins/&quot;&gt;very first post&lt;/a&gt;, I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when &lt;a href=&quot;http://ammaralishah.me/2015/07/25/leaving-cs50x/&quot;&gt;I quit CS50&lt;/a&gt;, I made yet another promise that I would post about my code journey every week. I haven&amp;#39;t been able to fulfill either of those promises :-(&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;em&gt;Phew!&lt;/em&gt; Good thing I got that off my chest, I can sleep peacefully now. Am I done here then? Not quite... being the nice guy I am, I&amp;#39;m going to tell you exactly why I haven&amp;#39;t been able to keep my promises, or in-other-words, I&amp;#39;m going to play the blame game :))&lt;/p&gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;TL;DR I blame my High School&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;As &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins.html&quot;&gt;mentioned before&lt;/a&gt;, I started High School in the second week of August and had to adjust to my new schedule. Turns out, It&amp;#39;s practically impossible to do so. I leave for school at around 7 AM and return around 4 PM. By the time I change, shower and eat, It&amp;#39;s already over 5 PM. By the time I&amp;#39;m back to functioning properly, it&amp;#39;s over 7 PM and I have to start doing my homework which take two hours(yes they are trying to kill us). By 10 PM, I&amp;#39;m exhausted and just fall asleep. That&amp;#39;s my routine Monday through Friday. Hopefully this will earn me your sympathy and you&amp;#39;ll let me go for not keeping my promise.&lt;/p&gt;
+&lt;p&gt;As &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins/&quot;&gt;mentioned before&lt;/a&gt;, I started High School in the second week of August and had to adjust to my new schedule. Turns out, It&amp;#39;s practically impossible to do so. I leave for school at around 7 AM and return around 4 PM. By the time I change, shower and eat, It&amp;#39;s already over 5 PM. By the time I&amp;#39;m back to functioning properly, it&amp;#39;s over 7 PM and I have to start doing my homework which take two hours(yes they are trying to kill us). By 10 PM, I&amp;#39;m exhausted and just fall asleep. That&amp;#39;s my routine Monday through Friday. Hopefully this will earn me your sympathy and you&amp;#39;ll let me go for not keeping my promise.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;TL;DR  I found better ways to track my progress while being productive&lt;/p&gt;
@@ -72,7 +72,7 @@
    <link href="http://ammaralishah.me/2015/08/16/js-pledge-week3/"/>
    <updated>2015-08-16T16:50:22+05:00</updated>
    <id>http://ammaralishah.me/2015/08/16/js-pledge-week3</id>
-   <content type="html">&lt;p&gt;It&amp;#39;s Sunday night again and this marks the end of my third week for learning JavaScript. &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x.html&quot;&gt;As promised&lt;/a&gt;, here&amp;#39;s my progress for the week:&lt;/p&gt;
+   <content type="html">&lt;p&gt;It&amp;#39;s Sunday night again and this marks the end of my third week for learning JavaScript. &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;As promised&lt;/a&gt;, here&amp;#39;s my progress for the week:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;I read chapter 0 of &lt;a href=&quot;http://diveintohtml5.info/&quot;&gt;Dive into HTML5&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -91,7 +91,7 @@
    <link href="http://ammaralishah.me/2015/08/09/js-pledge-week2/"/>
    <updated>2015-08-09T16:50:00+05:00</updated>
    <id>http://ammaralishah.me/2015/08/09/js-pledge-week2</id>
-   <content type="html">&lt;p&gt;It&amp;#39;s been 2 weeks since I took my &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x.html&quot;&gt;JavaScript pledge&lt;/a&gt; and it&amp;#39;s Sunday night which means time for my weekly report. This week wasn&amp;#39;t productive at all and I did even worse than &lt;a href=&quot;/code/2015/08/02/js-pledge-week1.html&quot;&gt;last time&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;It&amp;#39;s been 2 weeks since I took my &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;JavaScript pledge&lt;/a&gt; and it&amp;#39;s Sunday night which means time for my weekly report. This week wasn&amp;#39;t productive at all and I did even worse than &lt;a href=&quot;/code/2015/08/02/js-pledge-week1/&quot;&gt;last time&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;I read Chapter 5 of Eloquent JavaScript&lt;/p&gt;&lt;/li&gt;
@@ -137,13 +137,17 @@
    <link href="http://ammaralishah.me/2015/07/25/leaving-cs50x/"/>
    <updated>2015-07-25T12:58:29+05:00</updated>
    <id>http://ammaralishah.me/2015/07/25/leaving-cs50x</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/CS50.jpg&quot; alt=&quot;CS50&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;blockquote&gt;
+&lt;h1&gt;This post is being reviewed and updated&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/CS50.jpg&quot; alt=&quot;CS50&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;After a &lt;a href=&quot;https://www.facebook.com/groups/cs50/permalink/562182657262117/&quot;&gt;long debate&lt;/a&gt;, this post has been updated with more details&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A few weeks ago, as mentioned in my &lt;a href=&quot;/updates/2015/07/10/so-it-begins.html&quot;&gt;previous post&lt;/a&gt;, I started Harvards famous Computer Science MOOC, &lt;a href=&quot;http://cs50.harvard.edu/&quot;&gt;CS50&lt;/a&gt;, on &lt;a href=&quot;%22https://www.edx.org/course/introduction-computer-science-harvardx-cs50x&quot;&gt;edx&lt;/a&gt;. Now by the time you&amp;#39;ll reach Week 1, you&amp;#39;ll know why this course is so famous - Hint: It&amp;#39;s the teacher. &lt;a href=&quot;https://twitter.com/davidjmalan&quot;&gt;David&lt;/a&gt; is the reason for CS50s success. He&amp;#39;s very energetic and easily steals the attention of his audience. He is the second &lt;em&gt;teacher&lt;/em&gt; who has inspired me, the first one being, &lt;a href=&quot;http://simonallardice.com/&quot;&gt;Simon Allardice&lt;/a&gt;. Now back to CS50.&lt;/p&gt;
+&lt;p&gt;A few weeks ago, as mentioned in my &lt;a href=&quot;/2015/07/10/so-it-begins/&quot;&gt;previous post&lt;/a&gt;, I started Harvards famous Computer Science MOOC, &lt;a href=&quot;http://cs50.harvard.edu/&quot;&gt;CS50&lt;/a&gt;, on edx. Now by the time you&amp;#39;ll reach Week 1, you&amp;#39;ll know why this course is so famous - Hint: It&amp;#39;s the teacher. &lt;a href=&quot;https://twitter.com/davidjmalan&quot;&gt;David&lt;/a&gt; is the reason for CS50s success. He&amp;#39;s very energetic and easily steals the attention of his audience. He is the second &lt;em&gt;teacher&lt;/em&gt; who has inspired me, the first one being, &lt;a href=&quot;http://simonallardice.com/&quot;&gt;Simon Allardice&lt;/a&gt;. Now back to CS50.&lt;/p&gt;
 
 &lt;p&gt;I joined CS50&lt;/p&gt;
 
@@ -200,7 +204,7 @@ This is it. By the end of this year, I&amp;#39;ll have made good progress if eve
 &lt;h2&gt;Updates&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;I&amp;#39;m still working through &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FreeCodeCamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I&amp;#39;m still working through &lt;a href=&quot;http://www.freecodecamp.com/ammaralishah&quot;&gt;FreeCodeCamp&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;I started &lt;a href=&quot;https://courses.edx.org/courses/HarvardX/CS50x3/2015/info&quot;&gt;Harvard CS50x&lt;/a&gt; on edx&lt;/li&gt;
 &lt;li&gt;I gave &lt;a href=&quot;https://www.edx.org/course/chinese-language-learn-basic-mandarin-mandarinx-mx101x&quot;&gt;learning Mandarin&lt;/a&gt; a try but I bailed out after just one day!&lt;/li&gt;
 &lt;li&gt;I got a haircut :-D&lt;/li&gt;
