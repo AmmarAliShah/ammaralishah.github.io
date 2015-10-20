@@ -1,37 +1,181 @@
----
-layout: default
-title: Blog
----
+<!DOCTYPE html>
+<html lang="en-us">
 
-<div class="posts">
-  {% for post in paginator.posts %}
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Ammar Says - Freshly Published Thoughts on the world!
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Ammar Shah
+        </a>
+      </h1>
+      <p class="lead">I build things for the web. I also write sometimes.</br></p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item active" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/about/">About</a>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/portfolio/">Portfolio</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/writing/">Writing Archive</a>
+          
+        
+      
+        
+          
+        
+      
+
+    </nav>
+
+    <p>&copy; 2015. All rights reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="posts">
+  
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+      <a href="/2015/09/25/new-horizon/">
+        Exploring New Horizons
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">25 Sep 2015</span>
+    Picture by Huzefa Mustafa The time has come for me to admit my crimes: I haven&#39;t been loyal to this blog and to the people who read it. In my very first post, I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when I quit CS50, I made yet another promise that I would post about my code journey every week. I...<br>
+            <a href="/2015/09/25/new-horizon/">Read more...</a><br><br>
 
-    
+
   </div>
-  {% endfor %}
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2015/08/16/js-pledge-week3/">
+        JavaScript pledge: Week 3
+      </a>
+    </h1>
+
+    <span class="post-date">16 Aug 2015</span>
+    It&#39;s Sunday night again and this marks the end of my third week for learning JavaScript. As promised, here&#39;s my progress for the week: I read chapter 0 of Dive into HTML5 I solved FCC Bonfire - Check for Palindromes; I solved FCC Bonfire - Find the Longest Word in a String; I started reading Eloquent JavaScript from the start again I started working on a new practice website(Haven&#39;t completed it yet) That&#39;s all I...<br>
+            <a href="/2015/08/16/js-pledge-week3/">Read more...</a><br><br>
+
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2015/08/09/js-pledge-week2/">
+        JavaScript pledge: Week 2
+      </a>
+    </h1>
+
+    <span class="post-date">09 Aug 2015</span>
+    It&#39;s been 2 weeks since I took my JavaScript pledge and it&#39;s Sunday night which means time for my weekly report. This week wasn&#39;t productive at all and I did even worse than last time. I read Chapter 5 of Eloquent JavaScript I read Learn HTML &amp; CSS by Shay Howe I built a practice website(HTML &amp; CSS) Solved the &quot;reverse an array&quot; challenge That&#39;s all I did this week. I hope I&#39;ll do better...<br>
+            <a href="/2015/08/09/js-pledge-week2/">Read more...</a><br><br>
+
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2015/08/03/relearning-regex/">
+        Relearning RegEx
+      </a>
+    </h1>
+
+    <span class="post-date">03 Aug 2015</span>
+    <br>
+            <a href="/2015/08/03/relearning-regex/">Read more...</a><br><br>
+
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2015/08/02/js-pledge-week1/">
+        JavaScript pledge: Week 1
+      </a>
+    </h1>
+
+    <span class="post-date">02 Aug 2015</span>
+    So I recently quit CS50x and in that post I stated I&#39;d be writing about my progress every week till the end of the year. Well it&#39;s Sunday and my time is up and as stated, this is y first weekly report. This week wasn&#39;t as productive as I thought it would be due to some family events. I had to spend three complete days away from my house and computer(Wednesday, Friday and Sunday) so...<br>
+            <a href="/2015/08/02/js-pledge-week1/">Read more...</a><br><br>
+
+
+  </div>
+  
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
+  
+    <a class="pagination-item older" href="/page2">Older</a>
+  
+  
     <span class="pagination-item newer">Newer</span>
-  {% endif %}
+  
 </div>
+
+    </div>
+
+  </body>
+</html>

@@ -1,28 +1,218 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Ammar Shah</title>
+ <link href="https://ammaralishah.github.io/atom.xml" rel="self"/>
+ <link href="https://ammaralishah.github.io/"/>
+ <updated>2015-10-20T21:30:17+05:00</updated>
+ <id>https://ammaralishah.github.io</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Ammar Shah</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Exploring New Horizons</title>
+   <link href="https://ammaralishah.github.io/2015/09/25/new-horizon/"/>
+   <updated>2015-09-25T01:01:00+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/09/25/new-horizon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/../assets/horizon.jpg&quot; alt=&quot;Picture by Huzefa Mustafa&quot;&gt;
+&lt;em&gt;Picture by &lt;a href=&quot;https://instagram.com/huzefa_mustafa/&quot;&gt;Huzefa Mustafa&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The time has come for me to admit my crimes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I haven&amp;#39;t been loyal to this blog and to the people who read it. In my &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins/&quot;&gt;very first post&lt;/a&gt;, I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when &lt;a href=&quot;http://ammaralishah.me/2015/07/25/leaving-cs50x/&quot;&gt;I quit CS50&lt;/a&gt;, I made yet another promise that I would post about my code journey every week. I haven&amp;#39;t been able to fulfill either of those promises :-(&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Phew!&lt;/em&gt; Good thing I got that off my chest, I can sleep peacefully now. Am I done here then? Not quite... being the nice guy I am, I&amp;#39;m going to tell you exactly why I haven&amp;#39;t been able to keep my promises, or in-other-words, I&amp;#39;m going to play the blame game :))&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;TL;DR I blame my High School&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As &lt;a href=&quot;http://ammaralishah.me/2015/07/10/so-it-begins/&quot;&gt;mentioned before&lt;/a&gt;, I started High School in the second week of August and had to adjust to my new schedule. Turns out, It&amp;#39;s practically impossible to do so. I leave for school at around 7 AM and return around 4 PM. By the time I change, shower and eat, It&amp;#39;s already over 5 PM. By the time I&amp;#39;m back to functioning properly, it&amp;#39;s over 7 PM and I have to start doing my homework which take two hours(yes they are trying to kill us). By 10 PM, I&amp;#39;m exhausted and just fall asleep. That&amp;#39;s my routine Monday through Friday. Hopefully this will earn me your sympathy and you&amp;#39;ll let me go for not keeping my promise.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;TL;DR  I found better ways to track my progress while being productive&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now that I&amp;#39;ve laid out the practical impossibility of a blogging routine, I&amp;#39;m going to tell you about my weekends. Judging from my daily schedule, you might argue that I had time to write my weekly report on weekends, and you&amp;#39;re absolutely right. I could have written the weekly report, but I didn&amp;#39;t. At first, I forgot writing it every Sunday night and later on, I realized it was just another burden on me. I only had two free days every week and I could either be productive or worry about everything else I have to do. So I just made rough notes of what I did that day and decided to turn them into real posts later on(which I never did). &lt;strong&gt;So I&amp;#39;ve just decided to quit writing my weekly report&lt;/strong&gt;. The only reason I was writing them was to track my progress right, well FCC, GitHub and other tools I use are already doing that!&lt;/p&gt;
+
+&lt;p&gt;FreeCodeCamp does a great job of tracking my daily progress so I don&amp;#39;t need to track it myself,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../assets/FCC.JPG&quot; alt=&quot;FreeCodeCamp progress&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;and so does GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../assets/GHprog.JPG&quot; alt=&quot;GitHub tracking&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;That frees me of the responsibly to track my progress and I can focus more on learning to code.&lt;/p&gt;
+
+&lt;p&gt;By now, I expect you warm-hearted people have forgiven me for not keeping my word and sympathies with me and my class fellows and are going to spam &lt;a href=&quot;http://commecscollege.edu.pk/&quot;&gt;my school&lt;/a&gt; about the horrific timings. If that is the case, here&amp;#39;s &lt;a href=&quot;mailto:info@commecscollege.edu.pk&quot;&gt;their email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So basically this posts &lt;em&gt;officially&lt;/em&gt; announces my previous promises are now no longer valid. To make it up for that, I&amp;#39;m going to make new promises :))&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;#39;m going to go through the backlog of this blog and I&amp;#39;m going to update/edit all of my posts&lt;/li&gt;
+&lt;li&gt;I&amp;#39;m going to try to blog more often about things that I want to write about(I said I&amp;#39;ll try)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want me to stay true to my word, you might wanna bug my school so much that they shorten our timings. It&amp;#39;s almost 11 AM so I&amp;#39;m gonna go and eat breakfast. &lt;a href=&quot;mailto:info@commecscollege.edu.pk&quot;&gt;Spam my school&lt;/a&gt;!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;#39;re someone who&amp;#39;s interested in writing online, please consider joining &lt;a href=&quot;https://twitter.com/TheWormOfficial&quot;&gt;The Worm Official&lt;/a&gt;. TWO needs writers to join their team. Either &lt;a href=&quot;mailto:syedammarali24@gmail.com&quot;&gt;email&lt;/a&gt;/&lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;tweet&lt;/a&gt; me or contact &lt;a href=&quot;https://twitter.com/TheWormOfficial&quot;&gt;TWO on Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>JavaScript pledge: Week 3</title>
+   <link href="https://ammaralishah.github.io/2015/08/16/js-pledge-week3/"/>
+   <updated>2015-08-16T16:50:22+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/08/16/js-pledge-week3</id>
+   <content type="html">&lt;p&gt;It&amp;#39;s Sunday night again and this marks the end of my third week for learning JavaScript. &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;As promised&lt;/a&gt;, here&amp;#39;s my progress for the week:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I read chapter 0 of &lt;a href=&quot;http://diveintohtml5.info/&quot;&gt;Dive into HTML5&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I solved FCC Bonfire - &lt;a href=&quot;http://freecodecamp.com/challenges/bonfire-check-for-palindromes&quot;&gt;Check for Palindromes&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I solved FCC Bonfire - &lt;a href=&quot;http://freecodecamp.com/challenges/bonfire-find-the-longest-word-in-a-string&quot;&gt;Find the Longest Word in a String&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I started reading Eloquent JavaScript from the start again&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I started working on a new practice website(Haven&amp;#39;t completed it yet)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That&amp;#39;s all I did this week. I hope I&amp;#39;ll do better next week!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript pledge: Week 2</title>
+   <link href="https://ammaralishah.github.io/2015/08/09/js-pledge-week2/"/>
+   <updated>2015-08-09T16:50:00+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/08/09/js-pledge-week2</id>
+   <content type="html">&lt;p&gt;It&amp;#39;s been 2 weeks since I took my &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;JavaScript pledge&lt;/a&gt; and it&amp;#39;s Sunday night which means time for my weekly report. This week wasn&amp;#39;t productive at all and I did even worse than &lt;a href=&quot;/code/2015/08/02/js-pledge-week1/&quot;&gt;last time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I read Chapter 5 of Eloquent JavaScript&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I read Learn HTML &amp;amp; CSS by Shay Howe&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I built a practice website(HTML &amp;amp; CSS)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Solved the &amp;quot;reverse an array&amp;quot; challenge&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That&amp;#39;s all I did this week. I hope I&amp;#39;ll do better next week!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Relearning RegEx</title>
+   <link href="https://ammaralishah.github.io/2015/08/03/relearning-regex/"/>
+   <updated>2015-08-03T16:26:00+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/08/03/relearning-regex</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript pledge: Week 1</title>
+   <link href="https://ammaralishah.github.io/2015/08/02/js-pledge-week1/"/>
+   <updated>2015-08-02T16:50:00+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/08/02/js-pledge-week1</id>
+   <content type="html">&lt;p&gt;So I recently &lt;a href=&quot;/e-learning/2015/07/25/leaving-cs50x.html&quot;&gt;quit CS50x&lt;/a&gt; and in that post I stated I&amp;#39;d be writing about my progress every week till the end of the year. Well it&amp;#39;s Sunday and my time is up and as stated, this is y first weekly report. This week wasn&amp;#39;t as productive as I thought it would be due to some family events. I had to spend three complete days away from my house and computer(Wednesday, Friday and Sunday) so that put me a little behind on my progress.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I completed &lt;a href=&quot;http://www.freecodecamp.com/challenges/waypoint-learn-regular-expressions&quot;&gt;Free Code Camp Waypoint: Learn regular expressions&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I read &lt;a href=&quot;http://eloquentjavascript.net/04_data.html&quot;&gt;chapter 4&lt;/a&gt; from &lt;a href=&quot;http://eloquentjavascript.net&quot;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Completed &amp;quot;&lt;a href=&quot;https://github.com/AmmarAliShah/EloquentJavaScript-Solutions/blob/master/04_01.%20The%20sum%20of%20a%20range.js&quot;&gt;The sum of a range&lt;/a&gt;&amp;quot; exercise from &lt;a href=&quot;http://eloquentjavascript.net&quot;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Completed &lt;a href=&quot;https://www.sitepoint.com/premium/courses/introduction-to-html-2897&quot;&gt;Introduction to HTML&lt;/a&gt; at &lt;a href=&quot;https://www.sitepoint.com&quot;&gt;Sitepoint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Completed &lt;a href=&quot;https://www.sitepoint.com/premium/courses/introduction-to-responsive-web-design-2889&quot;&gt;Introduction to Responsive Web Design&lt;/a&gt; at &lt;a href=&quot;https://www.sitepoint.com&quot;&gt;Sitepoint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Completed &lt;a href=&quot;/cert.jpg?raw=true&quot;&gt;Build Your First Website: Getting Started with HTML &amp;amp; CSS&lt;/a&gt; at &lt;a href=&quot;http://www.sitepoint.com/&quot;&gt;Sitepoint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That&amp;#39;s all for this week. I know it&amp;#39;s not much but I&amp;#39;ll try improving next week. The whole point of this pledge is to track my progress and try to improve little by little every week.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I quit Harvard CS50</title>
+   <link href="https://ammaralishah.github.io/2015/07/25/leaving-cs50x/"/>
+   <updated>2015-07-25T12:58:29+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/07/25/leaving-cs50x</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;h1&gt;This post is being reviewed and updated&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/CS50.jpg&quot; alt=&quot;CS50&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;After a &lt;a href=&quot;https://www.facebook.com/groups/cs50/permalink/562182657262117/&quot;&gt;long debate&lt;/a&gt;, this post has been updated&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A few weeks ago, as mentioned in my &lt;a href=&quot;/2015/07/10/so-it-begins/&quot;&gt;previous post&lt;/a&gt;, I started Harvards famous Computer Science MOOC, &lt;a href=&quot;http://cs50.harvard.edu/&quot;&gt;CS50&lt;/a&gt;, on edx. &lt;a href=&quot;https://twitter.com/davidjmalan&quot;&gt;David&lt;/a&gt; is the reason for CS50s success. He&amp;#39;s very energetic and easily steals the attention of his audience. He is the second &lt;em&gt;teacher&lt;/em&gt; who has inspired me, the first one being, &lt;a href=&quot;http://simonallardice.com/&quot;&gt;Simon Allardice&lt;/a&gt;. Now back to CS50.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h1&gt;Original Post&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strike&gt;
+&lt;p&gt;
+In my &lt;a href=&quot;/updates/2015/07/10/so-it-begins.html&quot;&gt;previous post&lt;/a&gt;, I mentioned I started &lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x&quot;&gt;Harvards CS50&lt;/a&gt; on edx. Today, I decided to quit it and I un-enrolled from the class on edx. I made the decision after thinking on it long and hard so I&amp;#39;m not regretting what I did. Here&amp;#39;s why I quit:
+&lt;/p&gt;
+&lt;h2&gt;Why?&lt;/h2&gt;
+&lt;p&gt;
+To sum it up in a line, &lt;em&gt;I didn&amp;#39;t have time for it&lt;/em&gt;. I&amp;#39;m a web developer meaning what I do is related to the web - websites and web-apps. The course teaches C, a language not built for the web. My main focus was learning full-stack JavaScript and not C. When I started the course, I thought I would be able to do complete it without interference to my commitment to &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt;, which is to start the non-profit projects before the end of 2015! Sadly enough, in the past month, I haven&amp;#39;t made much progress there either. CS50x was not in any way my reason for not being able to keep my commitment to freecodecamp, I just got distracted.
+&lt;/p&gt;
+So today, I decided to remove all other distractions from my JavaScript learning path and focus on learning JavaScript. For the rest of they year, I&amp;#39;m going to learn and practice JavaScript only. I won&amp;#39;t play with any other language such as C or Python.
+&lt;h2&gt;Aftermath&lt;/h2&gt;
+&lt;p&gt;
+So there&amp;#39;s a few things I&amp;#39;ll be doing to keep focused on JavaScript:
+&lt;ul&gt;
+&lt;li&gt; I&amp;#39;m going to read &lt;a href=&quot;http://eloquentjavascript.net/&quot;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; I&amp;#39;m going to complete at least one &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt; challenge every day&lt;/li&gt;
+&lt;li&gt; Every week, i.e every Sunday night, I&amp;#39;ll be posting about my progress of the previous week.&lt;/li&gt;&lt;br&gt;
+&lt;/ul&gt;
+This is it. By the end of this year, I&amp;#39;ll have made good progress if everything goes as planned :)
+&lt;/p&gt;
+&lt;/strike&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>So it begins</title>
+   <link href="https://ammaralishah.github.io/2015/07/10/so-it-begins/"/>
+   <updated>2015-07-10T10:38:29+05:00</updated>
+   <id>https://ammaralishah.github.io/2015/07/10/so-it-begins</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/../assets/hello-world.png&quot; alt=&quot;Hello World&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m growing tired of this! &lt;em&gt;This?&lt;/em&gt; Writing this, &lt;code&gt;Hello world&lt;/code&gt; post. This is the third time I&amp;#39;m writing this and this time I decided to change the title - much better, don&amp;#39;t you think?&lt;/p&gt;
+
+&lt;h2&gt;Why did you write it thrice?&lt;/h2&gt;
+
+&lt;p&gt;Since I discovered blogging in 2012, I&amp;#39;ve set up several blogs on various topics, and have deleted or &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;lost them&lt;/a&gt;. I used &lt;a href=&quot;https://www.blogger.com&quot;&gt;Google Blogger&lt;/a&gt; for my first few blogs and then over the years, used many other solutions such as &lt;a href=&quot;https://wordpress.com/&quot;&gt;WordPress.com&lt;/a&gt;, &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress.org&lt;/a&gt;, &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;, &lt;a href=&quot;http://modx.com/&quot;&gt;MODX&lt;/a&gt;, &lt;a href=&quot;https://www.lightcms.com/&quot;&gt;LightCMS&lt;/a&gt;, and a lot more. Each blog had a life span of a few months. Here I&amp;#39;m only going to talk about the personal blogs I had/have setup:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I wrote the first one titled &lt;code&gt;Ello World&lt;/code&gt; back when I started my personal blog in early 2015 but sadly, &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;I lost it!&lt;/a&gt;. My first blog was based on &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; and hosted for free at &lt;a href=&quot;http://www.000webhost.com/690150.html&quot;&gt;000WebHost&lt;/a&gt;. The problem with this setup was that it was ad-supported and on every refresh or load an ad popped up which was annoying!  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;My second blog, sadly never made it to the internet. I set it up a few weeks ago, using &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt; and it was hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;. Now Ghost isn&amp;#39;t natively supported on GitHub pages, as it only allows static sites and Ghost is based on &lt;a href=&quot;https://nodejs.org/&quot;&gt;node.js&lt;/a&gt;. So, I found &lt;a href=&quot;http://leftofnull.com/2014/02/07/using-github-pages-with-ghost-and-buster-on-windows-part-1/index.html&quot;&gt;this post&lt;/a&gt;, that used a set of tools to let you run Ghost on GitHub pages. Following the instructions, I successfully set up Ghost on my local machine and configured it. That is when I wrote, this post for the second time, titled &lt;code&gt;Ello World...Again&lt;/code&gt;. I ran into a problem with Buster with that setup and after numerous tries I couldn&amp;#39;t fix it. I contacted the author of the post through Twitter, and I even commented on the post, but after a little back and fro, I gave up! I even got a Tweet from someone telling me the CSS on my site was broken - something I didn&amp;#39;t notice. So I decided to try something else.
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;@AmmarAliShahK&lt;/a&gt; I think your CSS is broken on your website &lt;a href=&quot;http://t.co/bXAJwIDRpm&quot;&gt;http://t.co/bXAJwIDRpm&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matthew Harames (@MatthewHarames) &lt;a href=&quot;https://twitter.com/MatthewHarames/status/617758469584654336&quot;&gt;July 5, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;This brings us to the third and current state -  &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, is built by &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;, the same company whose service I was using to host my site so I thought you can&amp;#39;t get more compatible than that, right? So I started with Jekyll and ran into problems with the final site again. So I explored other popular static site generators from the list at &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;StaticGen&lt;/a&gt;. After trying out around a dozen other options and facing the same problem, I concluded I was doing something wrong. So I Googled around, and after a little playing around with Jekyll(actually a lot playing around), I finally nailed it!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now I plan on sticking with this for a while. I don&amp;#39;t know for sure right now, but I will re-design the site in the future, but right now, I don&amp;#39;t have the time or the energy to do so.&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;#39;m still working through &lt;a href=&quot;http://www.freecodecamp.com/ammaralishah&quot;&gt;FreeCodeCamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I started &lt;a href=&quot;https://courses.edx.org/courses/HarvardX/CS50x3/2015/info&quot;&gt;Harvard CS50x&lt;/a&gt; on edx&lt;/li&gt;
+&lt;li&gt;I gave &lt;a href=&quot;https://www.edx.org/course/chinese-language-learn-basic-mandarin-mandarinx-mx101x&quot;&gt;learning Mandarin&lt;/a&gt; a try but I bailed out after just one day!&lt;/li&gt;
+&lt;li&gt;I got a haircut :-D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;And?&lt;/h2&gt;
+
+&lt;p&gt;And that&amp;#39;s it. I plan on blogging regularly but I can&amp;#39;t say for sure right now. My High School starts from August 11 and I&amp;#39;m gonna try to fit blogging into my routine. I&amp;#39;m working on a project atm and maybe I&amp;#39;ll  write about that in an upcoming post/posts.&lt;/p&gt;
+</content>
+ </entry>
+ 
 
 </feed>
