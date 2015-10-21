@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ammar Shah</title>
- <link href="https://ammaralishah.github.io/atom.xml" rel="self"/>
- <link href="https://ammaralishah.github.io/"/>
- <updated>2015-10-20T21:30:17+05:00</updated>
- <id>https://ammaralishah.github.io</id>
+ <link href="http://127.0.0.1:4000//atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000//"/>
+ <updated>2015-10-21T19:09:09+05:00</updated>
+ <id>http://127.0.0.1:4000/</id>
  <author>
    <name>Ammar Shah</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Exploring New Horizons</title>
-   <link href="https://ammaralishah.github.io/2015/09/25/new-horizon/"/>
+   <link href="http://127.0.0.1:4000//2015/09/25/new-horizon/"/>
    <updated>2015-09-25T01:01:00+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/09/25/new-horizon</id>
+   <id>http://127.0.0.1:4000//2015/09/25/new-horizon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/../assets/horizon.jpg&quot; alt=&quot;Picture by Huzefa Mustafa&quot;&gt;
 &lt;em&gt;Picture by &lt;a href=&quot;https://instagram.com/huzefa_mustafa/&quot;&gt;Huzefa Mustafa&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -69,9 +69,9 @@
  
  <entry>
    <title>JavaScript pledge: Week 3</title>
-   <link href="https://ammaralishah.github.io/2015/08/16/js-pledge-week3/"/>
+   <link href="http://127.0.0.1:4000//2015/08/16/js-pledge-week3/"/>
    <updated>2015-08-16T16:50:22+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/08/16/js-pledge-week3</id>
+   <id>http://127.0.0.1:4000//2015/08/16/js-pledge-week3</id>
    <content type="html">&lt;p&gt;It&amp;#39;s Sunday night again and this marks the end of my third week for learning JavaScript. &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;As promised&lt;/a&gt;, here&amp;#39;s my progress for the week:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -88,9 +88,9 @@
  
  <entry>
    <title>JavaScript pledge: Week 2</title>
-   <link href="https://ammaralishah.github.io/2015/08/09/js-pledge-week2/"/>
+   <link href="http://127.0.0.1:4000//2015/08/09/js-pledge-week2/"/>
    <updated>2015-08-09T16:50:00+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/08/09/js-pledge-week2</id>
+   <id>http://127.0.0.1:4000//2015/08/09/js-pledge-week2</id>
    <content type="html">&lt;p&gt;It&amp;#39;s been 2 weeks since I took my &lt;a href=&quot;e-learning/2015/07/25/leaving-cs50x/&quot;&gt;JavaScript pledge&lt;/a&gt; and it&amp;#39;s Sunday night which means time for my weekly report. This week wasn&amp;#39;t productive at all and I did even worse than &lt;a href=&quot;/code/2015/08/02/js-pledge-week1/&quot;&gt;last time&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -106,17 +106,17 @@
  
  <entry>
    <title>Relearning RegEx</title>
-   <link href="https://ammaralishah.github.io/2015/08/03/relearning-regex/"/>
+   <link href="http://127.0.0.1:4000//2015/08/03/relearning-regex/"/>
    <updated>2015-08-03T16:26:00+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/08/03/relearning-regex</id>
+   <id>http://127.0.0.1:4000//2015/08/03/relearning-regex</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>JavaScript pledge: Week 1</title>
-   <link href="https://ammaralishah.github.io/2015/08/02/js-pledge-week1/"/>
+   <link href="http://127.0.0.1:4000//2015/08/02/js-pledge-week1/"/>
    <updated>2015-08-02T16:50:00+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/08/02/js-pledge-week1</id>
+   <id>http://127.0.0.1:4000//2015/08/02/js-pledge-week1</id>
    <content type="html">&lt;p&gt;So I recently &lt;a href=&quot;/e-learning/2015/07/25/leaving-cs50x.html&quot;&gt;quit CS50x&lt;/a&gt; and in that post I stated I&amp;#39;d be writing about my progress every week till the end of the year. Well it&amp;#39;s Sunday and my time is up and as stated, this is y first weekly report. This week wasn&amp;#39;t as productive as I thought it would be due to some family events. I had to spend three complete days away from my house and computer(Wednesday, Friday and Sunday) so that put me a little behind on my progress.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -134,9 +134,9 @@
  
  <entry>
    <title>Why I quit Harvard CS50</title>
-   <link href="https://ammaralishah.github.io/2015/07/25/leaving-cs50x/"/>
+   <link href="http://127.0.0.1:4000//2015/07/25/leaving-cs50x/"/>
    <updated>2015-07-25T12:58:29+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/07/25/leaving-cs50x</id>
+   <id>http://127.0.0.1:4000//2015/07/25/leaving-cs50x</id>
    <content type="html">&lt;blockquote&gt;
 &lt;h1&gt;This post is being reviewed and updated&lt;/h1&gt;
 &lt;/blockquote&gt;
@@ -178,14 +178,14 @@ This is it. By the end of this year, I&amp;#39;ll have made good progress if eve
  
  <entry>
    <title>So it begins</title>
-   <link href="https://ammaralishah.github.io/2015/07/10/so-it-begins/"/>
+   <link href="http://127.0.0.1:4000//2015/07/10/so-it-begins/"/>
    <updated>2015-07-10T10:38:29+05:00</updated>
-   <id>https://ammaralishah.github.io/2015/07/10/so-it-begins</id>
+   <id>http://127.0.0.1:4000//2015/07/10/so-it-begins</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/../assets/hello-world.png&quot; alt=&quot;Hello World&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m growing tired of this! &lt;em&gt;This?&lt;/em&gt; Writing this, &lt;code&gt;Hello world&lt;/code&gt; post. This is the third time I&amp;#39;m writing this and this time I decided to change the title - much better, don&amp;#39;t you think?&lt;/p&gt;
+&lt;p&gt;I&amp;#39;m growing tired of this! &lt;em&gt;This?&lt;/em&gt; Writing this, &lt;code&gt;Hello world&lt;/code&gt; post. This is the third time I&amp;#39;m writing this and this time I decided to change the title - much better, &lt;em&gt;don&amp;#39;t you think?&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2&gt;Why did you write it thrice?&lt;/h2&gt;
+&lt;h2&gt;Third Time?&lt;/h2&gt;
 
 &lt;p&gt;Since I discovered blogging in 2012, I&amp;#39;ve set up several blogs on various topics, and have deleted or &lt;a href=&quot;https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199&quot;&gt;lost them&lt;/a&gt;. I used &lt;a href=&quot;https://www.blogger.com&quot;&gt;Google Blogger&lt;/a&gt; for my first few blogs and then over the years, used many other solutions such as &lt;a href=&quot;https://wordpress.com/&quot;&gt;WordPress.com&lt;/a&gt;, &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress.org&lt;/a&gt;, &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;, &lt;a href=&quot;http://modx.com/&quot;&gt;MODX&lt;/a&gt;, &lt;a href=&quot;https://www.lightcms.com/&quot;&gt;LightCMS&lt;/a&gt;, and a lot more. Each blog had a life span of a few months. Here I&amp;#39;m only going to talk about the personal blogs I had/have setup:&lt;/p&gt;
 
