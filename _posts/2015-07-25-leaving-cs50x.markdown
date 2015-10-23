@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Why I quit Harvard CS50"
+date:   2015-07-25 07:58:29
+categories:
+---
+ > #This post is being reviewed and updated
+
+![CS50](/assets/CS50.jpg)
+
+> After a [long debate](https://www.facebook.com/groups/cs50/permalink/562182657262117/), this post has been updated
+
+A few weeks ago, as mentioned in my [previous post](/2015/07/10/so-it-begins/), I started Harvards famous Computer Science MOOC, [CS50](http://cs50.harvard.edu/), on edx. [David](https://twitter.com/davidjmalan) is the reason for CS50s success. He's very energetic and easily steals the attention of his audience. He is the second *teacher* who has inspired me, the first one being, [Simon Allardice](http://simonallardice.com/). Now back to CS50.
+
+> #Original Post
+
+<strike>
+<p>
+In my <a href="/updates/2015/07/10/so-it-begins.html">previous post</a>, I mentioned I started <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvards CS50</a> on edx. Today, I decided to quit it and I un-enrolled from the class on edx. I made the decision after thinking on it long and hard so I'm not regretting what I did. Here's why I quit:
+</p>
+<h2>Why?</h2>
+<p>
+To sum it up in a line, <em>I didn't have time for it</em>. I'm a web developer meaning what I do is related to the web - websites and web-apps. The course teaches C, a language not built for the web. My main focus was learning full-stack JavaScript and not C. When I started the course, I thought I would be able to do complete it without interference to my commitment to <a href="http://www.freecodecamp.com/">Free Code Camp</a>, which is to start the non-profit projects before the end of 2015! Sadly enough, in the past month, I haven't made much progress there either. CS50x was not in any way my reason for not being able to keep my commitment to freecodecamp, I just got distracted.
+</p>
+So today, I decided to remove all other distractions from my JavaScript learning path and focus on learning JavaScript. For the rest of they year, I'm going to learn and practice JavaScript only. I won't play with any other language such as C or Python.
+<h2>Aftermath</h2>
+<p>
+So there's a few things I'll be doing to keep focused on JavaScript:
+<ul>
+<li> I'm going to read <a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
+<li> I'm going to complete at least one <a href="http://www.freecodecamp.com/">Free Code Camp</a> challenge every day</li>
+<li> Every week, i.e every Sunday night, I'll be posting about my progress of the previous week.</li>  
+</ul>
+This is it. By the end of this year, I'll have made good progress if everything goes as planned :)
+</p>
+</strike>
