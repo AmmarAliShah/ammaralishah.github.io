@@ -4,7 +4,7 @@
  <title>Ammar Shah</title>
  <link href="ammaralishah.github.io/atom.xml" rel="self"/>
  <link href="ammaralishah.github.io/"/>
- <updated>2015-10-23T17:38:07+05:00</updated>
+ <updated>2015-10-24T09:20:22+05:00</updated>
  <id>ammaralishah.github.io</id>
  <author>
    <name>Ammar Shah</name>
@@ -13,11 +13,33 @@
 
  
  <entry>
-   <title>Email Test</title>
-   <link href="ammaralishah.github.io/2015/10/23/test/"/>
-   <updated>2015-10-23T22:38:29+05:00</updated>
-   <id>ammaralishah.github.io/2015/10/23/test</id>
-   <content type="html">&lt;p&gt;This post has no real meaning. It&amp;#39;s just a test - trying out hello bar email subscription!&lt;/p&gt;
+   <title>Droid Maxx Battery problems</title>
+   <link href="ammaralishah.github.io/2015/10/24/droid-maxx-battery/"/>
+   <updated>2015-10-24T08:50:00+05:00</updated>
+   <id>ammaralishah.github.io/2015/10/24/droid-maxx-battery</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/../assets/droid-maxx.png&quot; alt=&quot;Droid Maxx&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;A few months ago, in August, I changed my smartphone and bought the &lt;a href=&quot;http://www.motorola.com/us/smartphones/droid-maxx/m-droid-maxx.html&quot;&gt;Motorola Droid Maxx&lt;/a&gt;. I&amp;#39;ve been using the phone as my daily driver since and hadn&amp;#39;t run into a problem with it though it was the 16-gig version and I had to do a bit of memory management but everything else was great. The great thing about this phone is that it&amp;#39;s packed with a huge battery which is advertised to &amp;quot;&lt;em&gt;last for up to 48 hours on a single charge&lt;/em&gt;&amp;quot;. I&amp;#39;m out a lot and this battery was just what I needed. Things would&amp;#39;ve been percect if I had bought the 32-gig version but you don&amp;#39;t get everything you wish for(and that&amp;#39;s okay).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../assets/DroidMaxx1.png&quot; alt=&quot;Droid Maxx Battery&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The last few weeks, the battery started draining really fast - 7 - 10 hours / charge. The phone also started to heat up a but if used constantly. As busy as I am, I didn&amp;#39;t put much thought into it until yesterday when I saw that it was really turning into a problem. A full charge(which would take up to 3 hours) was draining in just 7 hours! A little CPU intensive task would raise the temperature above 40°C!&lt;/p&gt;
+
+&lt;p&gt;A quick Google search and &lt;strong&gt;a lot&lt;/strong&gt; of forum reading gave me a lot of information:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I was not alone. A lot of other Droid Maxx owners were facing the same problem&lt;/li&gt;
+&lt;li&gt;Most people started having this problem after they upgraded to Android 4.4 - my phone came with 4.4 pre-installed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The good news&lt;/strong&gt; - Most people were able to fix the problem by doing simple things such as re-calibrating the battery, or formatting the phone or clearing the cache&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;#39;ve decided to give the &lt;em&gt;factory reset&lt;/em&gt; option a try. I&amp;#39;ll lose all my data in the process so I&amp;#39;m backing it all up to the cloud and my computer as I type this. Once it&amp;#39;s done, I&amp;#39;ll factory reset the phone and clear the cache too. I hope that&amp;#39;ll fix the problem. If not, I&amp;#39;m going to try re-calibrating the battery. If all fails, I&amp;#39;ll be contacting support but hopefully it won&amp;#39;t come to that.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;#39;ve made small changes to the blog. I&amp;#39;m trying things out and once I think everything is the way I want it to be, I&amp;#39;ll be writing a post about the changes and explaining what I did and why I did it.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
@@ -69,10 +91,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;If you want me to stay true to my word, you might wanna bug my school so much that they shorten our timings. It&amp;#39;s almost 11 AM so I&amp;#39;m gonna go and eat breakfast. &lt;a href=&quot;mailto:info@commecscollege.edu.pk&quot;&gt;Spam my school&lt;/a&gt;!&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;If you&amp;#39;re someone who&amp;#39;s interested in writing online, please consider joining &lt;a href=&quot;https://twitter.com/TheWormOfficial&quot;&gt;The Worm Official&lt;/a&gt;. TWO needs writers to join their team. Either &lt;a href=&quot;mailto:syedammarali24@gmail.com&quot;&gt;email&lt;/a&gt;/&lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;tweet&lt;/a&gt; me or contact &lt;a href=&quot;https://twitter.com/TheWormOfficial&quot;&gt;TWO on Twitter&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
  </entry>
  
