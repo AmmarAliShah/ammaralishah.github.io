@@ -4,13 +4,22 @@
  <title>Ammar Shah</title>
  <link href="ammaralishah.github.io/atom.xml" rel="self"/>
  <link href="ammaralishah.github.io/"/>
- <updated>2015-11-10T05:51:05+05:00</updated>
+ <updated>2015-11-10T17:17:13+05:00</updated>
  <id>ammaralishah.github.io</id>
  <author>
    <name>Ammar Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Follow my blog with Bloglovin</title>
+   <link href="ammaralishah.github.io/2015/11/10/blog-lovin/"/>
+   <updated>2015-11-10T17:15:00+05:00</updated>
+   <id>ammaralishah.github.io/2015/11/10/blog-lovin</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.bloglovin.com/blog/14545861/?claim=7zet4zuezkc&quot;&gt;Follow my blog with Bloglovin&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Phone Manufacturers: Focus on the battery</title>
