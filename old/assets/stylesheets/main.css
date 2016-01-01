@@ -1,0 +1,62 @@
+body {font-family: proxima-nova, sans-serif;}
+
+.container {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+header {
+  line-height: 1.4;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+header h1{
+  font-size: 69px;
+  color: rgb(47,57,78);
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+.intro {
+  font-size: 23px;
+  color: rgb(74,86,92);
+  margin-bottom: 50px;
+}
+
+.intro a {
+  text-decoration: none;
+  font-weight: bold;
+  text-decoration: underline;
+  color: rgb(74,86,92);
+}
+
+.grid {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+  height: 304px;
+  width: 304px;
+}
+
+.large {
+  height: 607px;
+  width: 607px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
