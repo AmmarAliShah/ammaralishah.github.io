@@ -4,13 +4,60 @@
  <title>Ammar Says</title>
  <link href="ammaralishah.github.io/atom.xml" rel="self"/>
  <link href="ammaralishah.github.io/"/>
- <updated>2016-01-03T01:08:10+05:00</updated>
+ <updated>2016-01-10T07:58:08+05:00</updated>
  <id>ammaralishah.github.io</id>
  <author>
    <name>Ammar Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>CS50x 2016</title>
+   <link href="ammaralishah.github.io/2016/01/10/cs50x-2016/"/>
+   <updated>2016-01-10T07:50:00+05:00</updated>
+   <id>ammaralishah.github.io/2016/01/10/cs50x-2016</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/CS50.jpg&quot; alt=&quot;CS50x&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2016/01/01/new-year/&quot;&gt;It&amp;#39;s 2016!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s a new year, which means new goals, new things to focus on. Last year, &lt;a href=&quot;/2015/07/25/leaving-cs50x&quot;&gt;I left CS50&lt;/a&gt;. This year, I plan on ending what I started.&lt;/p&gt;
+
+&lt;h2&gt;What&amp;#39;s CS50x?&lt;/h2&gt;
+
+&lt;p&gt;According to the site, CS50 is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Harvard University&amp;#39;s introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. As of Fall 2015, the on-campus version of CS50x, CS50, was Harvard&amp;#39;s largest course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;em&gt;&amp;quot;x&amp;quot;&lt;/em&gt; refers to the online version of the &lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x&quot;&gt;course on edx&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Back to it&lt;/h2&gt;
+
+&lt;p&gt;As I already said above, I started CS50x 2015 but &lt;a href=&quot;/2015/07/25/leaving-cs50x&quot;&gt;I quit&lt;/a&gt;, later on, promising to come back next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Well it&amp;#39;s next year and time for me to fulfill my promise!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So on January 1st, 2016, I signed up for CS50x 2016.&lt;/p&gt;
+
+&lt;h2&gt;Current Progress&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I tweet about my progress on &lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As of right now, I&amp;#39;m done with Week 0 and pset 0.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m done with Week 1 lectures and am yet to start cracking pset 1 - hopefully I&amp;#39;ll do that today.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s all for now.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m aiming to get done with this, &lt;em&gt;this time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Till next week then!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>It's 2016</title>
