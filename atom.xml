@@ -4,13 +4,54 @@
  <title>Ammar Says</title>
  <link href="ammaralishah.github.io/atom.xml" rel="self"/>
  <link href="ammaralishah.github.io/"/>
- <updated>2016-01-23T08:03:38+05:00</updated>
+ <updated>2016-01-23T10:49:44+05:00</updated>
  <id>ammaralishah.github.io</id>
  <author>
    <name>Ammar Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The android app by Microsoft to help you wake up on time</title>
+   <link href="ammaralishah.github.io/2016/01/23/alarm-microsoft-youll-hate/"/>
+   <updated>2016-01-23T10:43:00+05:00</updated>
+   <id>ammaralishah.github.io/2016/01/23/alarm-microsoft-youll-hate</id>
+   <content type="html">&lt;p&gt;Yes you read that correctly - an Android app by Microsoft.&lt;/p&gt;
+
+&lt;p&gt;The app is an alarm clock!&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s special about this particular clock is that it does not just let you cancel your alarm - You have to play a game to turn it off!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft1.jpg&quot; alt=&quot;App home&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The way it works is that when your alarm goes off, you are given two options you can swipe too - swipe left for snooze and swipe right to cancel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft2.jpg&quot; alt=&quot;App options to swipe&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you swipe left, you get a five minutes snooze.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft3.jpg&quot; alt=&quot;Snooze&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you swipe right, you are presented with a small game - different every time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft4.jpg&quot; alt=&quot;Play the game&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting up an alarm is fairly simple and self explanatory.&lt;/p&gt;
+
+&lt;p&gt;I played around with a while and got quite interesting little things that would require me to either get out of bed, focus or turn on the light.&lt;/p&gt;
+
+&lt;p&gt;If you fail at the game, the alarm goes back to it&amp;#39;s previous state, that is the swipe part.&lt;/p&gt;
+
+&lt;p&gt;This is quite an interesting app as you &lt;strong&gt;can not&lt;/strong&gt; turn the alarm off in your sleep.&lt;/p&gt;
+
+&lt;p&gt;This app is actually a part of Microsoft&amp;#39;s AI project, &lt;a href=&quot;https://www.projectoxford.ai/&quot;&gt;Project Oxford&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re someone who has trouble waking up, you might wanna try this app.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.microsoft.mimickeralarm&quot;&gt;You download this app to your phone from here&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>CS50x 2016</title>
