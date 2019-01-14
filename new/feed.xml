@@ -1,30 +1,376 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title></title>
+    <description>Ammar Shah is a writer, Digital Marketer and Software Engineer based in Karachi, Pakistan</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Jan 2019 17:04:24 +0500</pubDate>
+    <lastBuildDate>Mon, 14 Jan 2019 17:04:24 +0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Twenty</title>
+        <description>&lt;p&gt;Although my 20th birthday was 32 days ago, I’m writing this post today since I wanted to experience life as… Let’s cut the crap and just say that I’m a bit lazy when it comes to maintaining this blog or even the others. (I did write a short rant on my &lt;a href=&quot;https://ammaralishah.tumblr.com/&quot;&gt;“tumblr rant blog”&lt;/a&gt; though. You should &lt;a href=&quot;https://ammaralishah.tumblr.com/post/172566977149/judgmental-me-judgmental-you&quot;&gt;check it out&lt;/a&gt;).But I believe it did work out in the end as I learned a few new things that I’m going to use in this post that I believe will improve the quality, of this post.&lt;/p&gt;
+
+&lt;p&gt;As midnight struck on my not-so-ancient wall clock, and the date change to the 24th of the third month of 2018, I waited for my body to transform into the new phase as I shed  the old teenager skin and emerged to my new “adult” form, leaving all the childishness behind and trading it in for sophistication and seriousness. But to my surprise nothing happened after even an hour had passed and my body remained more or less the same.&lt;/p&gt;
+
+&lt;p&gt;If we go by what Heraclitus of Ephesus, a  pre-Socratic Greek philosopher said, i.e. &lt;em&gt;“No man ever steps in the same river twice, for it’s not the same river and he’s not the same man”&lt;/em&gt;. What this means is that we are changing every second, if you put one of your foot in the water followed by the other, both of them would be in a different river as the water that touched your first foot has flown away(as water does) and the water that touches your second foot is new water flowing in from somewhere else. In the same way, man is not the same even a few micro-seconds apart. We’re changing, ever so slightly, every passing moment. But all that is a bit too much to process for us so let’s just stick to the once-in-a-year, “one year older” change.&lt;/p&gt;
+
+&lt;p&gt;The first thing I learned was that we don’t change the way Heraclitus thought we do - not practically, nor do we change the way we think we  do, i.e. on our birthday, as I experienced it. We change when we want to. We change when we experience life, when we think, when we learn and when we educate. We change when we want to and we have ZERO control over this change.&lt;/p&gt;
+
+&lt;p&gt;The second lesson would be something &lt;a href=&quot;https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html&quot;&gt;I read a long time ago on Wait But Why&lt;/a&gt;, one of my favorite blogs of all time - as you grow older, the people who matter in your life become more obvious. The people who’ll stick around in ten, twenty or thirty years become more obvious. Because on my 19th birthday, I received more than ten messages the second it turned 12. On my 20th, I received one. I also received fewer wishes than last time, but I received more genuine ones. I’ve always believed in quality over quantity and as I grow, the quantity of my birthday wishes may decrease, but the quality is surely growing - and that’s what matters.&lt;/p&gt;
+
+&lt;p&gt;I’ve also been reading a lot less, but learning a lot more. I learned that we don’t always have the time to pick up a book and take out time to read it, but we always have time to think. We can always observe and so, we can always learn. I’ve been studying a lot of History and Philosophy lately too. Subjects I thought I would never be interested in. I’ve been studying Capitalism and Socialism, topics I thought I always understood but in fact knew nothing about. My interests have changed so much in the last three years alone that if I meet my fifteen, sixteen or even seventeen year old self today, I’ll punch him in the gut.&lt;/p&gt;
+
+&lt;p&gt;Life’s changing and so am I, but this number I put in front of my “age” does not define how old I am, it is my experience and knowledge that defines that. So if you’re going to tell me to “act my age“, I just want to let you know, that I am acting my age, but that doesn’t matter, as long as I’m acting to my educational standards.&lt;/p&gt;
+
+&lt;p&gt;Happy belated Birthday to me, and thank you to anyone who wished me - means a lot.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 20:37:00 +0500</pubDate>
+        <link>/twenty</link>
+        <guid isPermaLink="true">/twenty</guid>
+        
+        
+        <category>Personal</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>I talk</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/../assets/i-talk.jpg&quot; alt=&quot;I Talk - Ammar Shah&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me put it straight out: &lt;strong&gt;“I love to talk”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s something I do all day, everyday. No really, ask my friends if you don’t believe me. Most people might not think much of this but I admire &lt;em&gt;the art of talking&lt;/em&gt; and also, the people who can do that really well.&lt;/p&gt;
+
+&lt;p&gt;People such as &lt;em&gt;Jesse Eisenberg&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../assets/je.jpg&quot; alt=&quot;Jesse Eisenberg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That guy is a true master in the art of speaking. I just love his fast-paced voiced( &lt;strong&gt;Although it’s something he did get naturally but still…&lt;/strong&gt; ). I’ve spent countless hours imitating his words from &lt;em&gt;The Social Network&lt;/em&gt; and &lt;em&gt;Now You See Me&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are people out there who don’t really understand &lt;strong&gt;“The Art of Speaking”&lt;/strong&gt; and they probably never will. They might find it as something that the majority of the population can do. They may argue that this isn’t a form of art or isn’t really a skill, or it’s not even a good thing  but I beg to defer!&lt;/p&gt;
+
+&lt;p&gt;Art is used to express oneself and there is no better way to express yourself than using your voice. For those who say that talking isn’t a skill, I’d like to ask them that how many times have people listened with 100% attention while they talked. No one wants to hear people talk unless they have that magic in their voice.&lt;/p&gt;
+
+&lt;p&gt;I for one admire this art. If you ever find me somewhere and are thinking of a conversation topic, this is one. If you too are an admirer of this art, hit it in the comments and I’m very sure we’ll get along very well. (If you’re against this, I still wanna hear it so don’t shy away)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 23:21:00 +0500</pubDate>
+        <link>/2016/10/03/i-talk.html</link>
+        <guid isPermaLink="true">/2016/10/03/i-talk.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mission 'More Social'</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://static.pexels.com/photos/35177/pexels-photo.jpg&quot; alt=&quot;Mission 'More Social'&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last couple of months have been so busy with teaching 5 hours a day, Gym, Pokemon Go, client work(I’m a freelance developer), learning to drive and most recently school, that I’ve hardly had time to use social media.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I’ve Tweeted about 10 times in the past 2 weeks.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I last changed my Facebook display in 2014&lt;/em&gt; (Also my picture anywhere else online)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;My last Instagram post was around 12 weeks ago&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The list goes on and on…&lt;/p&gt;
+
+&lt;p&gt;The point is, I’ve been more or less a ghost on social media for the last few months. I used to be really active on sites like Quora and Instagram but over time I haven’t been able to keep up and I’m not happy about that.&lt;/p&gt;
+
+&lt;p&gt;So, I’ve taken on a little mission:  &lt;strong&gt;Mission ‘More Social’&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m going to slowly try to be more active on social media sites. I’m going to start with the big three i.e. Facebook, Twitter and Google Plus(Yes!) and then move on to others like Instagram, Quora, Tumblr and the rest. This, though, &lt;strong&gt;does not&lt;/strong&gt; mean that all of a sudden I’ll be very active on all my social accounts. I’m going to slowly use them a little more and then find out which socials I need and which I don’t, and then I’ll be active on the ones I need/like.&lt;/p&gt;
+
+&lt;p&gt;That’s the plan for now!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mission ‘More Social’ is go!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;p.s You can find my socials accounts in my &lt;a href=&quot;/about&quot;&gt;about&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Aug 2016 00:26:00 +0500</pubDate>
+        <link>/2016/08/15/more-social.html</link>
+        <guid isPermaLink="true">/2016/08/15/more-social.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Psychobabble: The pop culture and Hollywood gossip podcast you'll love</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i1.sndcdn.com/avatars-000222113437-7ytblt-t500x500.jpg&quot; alt=&quot;Psychobabble Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I discovered podcasts almost two years ago and got addicted to them. I would listen to them all the time and was subscribed to like a hundred different ones, but slowly I started losing interest  and now I only listen to a few.&lt;/p&gt;
+
+&lt;p&gt;Psychobabble is a podcast I recently discovered and fell in love with.&lt;/p&gt;
+
+&lt;p&gt;Wikipedia defines Psychobabble as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Psychobabble is a form of speech or writing that uses psychological jargon, buzzwords, and esoteric language to create an impression of truth or plausibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The podcast, hosted by YouTube stars &lt;a href=&quot;https://en.wikipedia.org/wiki/Tyler_Oakley&quot;&gt;Tyler Oakley&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/koreykuhl&quot;&gt;Korey Kuhl&lt;/a&gt;, is about Pop culture and Holywood gossip. The two best friends take you through a number of topics in the thirty minutes to one hour duration of the show. In one of the episodes, the hosts tell us that the idea behind this podcast was to turn the listener into their third BFF and just gossip around. Well, if that was the idea, then mission accomplished!&lt;/p&gt;
+
+&lt;p&gt;The podcast also has a side where they give out advice to listeners who email them their questions. That’s a very cool feature too considering that a lot of kids consider such internet personalities to be their role models and what could be better than sharing your problems with them.&lt;/p&gt;
+
+&lt;p&gt;The podcast itself is great as you’re promised stories that you’ve never heard in videos and listening to the podcast gives you a hangout kind of feeling so it’s great to listen to.&lt;/p&gt;
+
+&lt;p&gt;You can listen to the podcast on &lt;a href=&quot;https://soundcloud.com/psychobabbletyleroakley&quot;&gt;SoundCloud&lt;/a&gt; or &lt;a href=&quot;https://exit.sc/?url=http%3A%2F%2Fitunes.com%2Fpsychobabble&quot;&gt;iTunes&lt;/a&gt;. Let me know what you think in the comments or on Twitter &lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;@AmmarAliShahK&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 16:44:00 +0500</pubDate>
+        <link>/2016/06/16/psychobabble-review.html</link>
+        <guid isPermaLink="true">/2016/06/16/psychobabble-review.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Extremely Unproductive</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://static.pexels.com/photos/52608/pexels-photo-52608.jpeg&quot; alt=&quot;Extremely Unproductive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hey there! It’s been a while since I’ve communicated through this method. I would tell you where or with what I’ve been busy but that would be a lie.&lt;/p&gt;
+
+&lt;p&gt;The truth is I’ve been doing nothing at all since my exams ended in May. I’ve spent the last three weeks watching the entire &lt;a href=&quot;http://www.imdb.com/title/tt0460649/&quot;&gt;How I Met Your Mother&lt;/a&gt; show and season 6 of &lt;a href=&quot;http://www.imdb.com/title/tt0944947/&quot;&gt;Game of Thrones&lt;/a&gt;. Pretty productive, right?&lt;/p&gt;
+
+&lt;p&gt;I did plan on writing a ton and doing a lot of other stuff, but I ended up doing none of that. I did however learn to drive which is very cool.&lt;/p&gt;
+
+&lt;p&gt;I also &lt;em&gt;did&lt;/em&gt; try writing but it just didn’t happen.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Does it ever happen to ya&amp;#39;ll that you&amp;#39;re writing an article and half way through you think it&amp;#39;s crap and just want to delete it?&lt;/p&gt;&amp;mdash; Ammar Ali Shah (@AmmarAliShahK) &lt;a href=&quot;https://twitter.com/AmmarAliShahK/status/739990380192616448&quot;&gt;June 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;So today I finally took out some time to write this. It’s not what I had in mind when I planned that I was going to write this summer but it’s something at least! I also started on some code so that’s a little progress in that area too. Hopefully I’ll be able to publish all those article ideas I have in my notes before school starts again in August.&lt;/p&gt;
+
+&lt;p&gt;Also, I’m planing on starting a book on wattpad so you can follow me there for more news on that: &lt;a href=&quot;https://www.wattpad.com/user/AmmarAliShah&quot;&gt;My Wattpad Profile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Until next time, cheers!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Jun 2016 16:20:00 +0500</pubDate>
+        <link>/2016/06/08/extremely-unproductive.html</link>
+        <guid isPermaLink="true">/2016/06/08/extremely-unproductive.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Finally 18 and legal</title>
+        <description>&lt;!--![Finally 18 and legal]()--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NOTE 2: I’ll add in images later - tired atm&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NOTE 3: This is taking longer to update than I had planned. Sorry but I’m busy with finals&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2016 is the year - the year I’ve been waiting for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m finally 18 years old&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve been waiting for so long to be able to write this post ( though I’m still 6 days late ).&lt;/p&gt;
+
+&lt;p&gt;18 is a really powerful digit once put in the age field. Like a key-card, it opens up a wonderful land of possibilities. ( At least in Pakistan it does ). You can finally get a bank account, and a driving license and all of those other things you want but don’t necessarily need. Basically, you’re officially an adult.&lt;/p&gt;
+
+&lt;p&gt;There’s just something to that sentence that makes me happy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Birthdays are also great in the sense that a lot of people that you haven’t talked to you in a while talk to you. It makes you realize how many people actually care about you. Someone took out seven seconds of their life just to post “Happy Birthday” on your Facebook timeline. Then there are those who try their best to wish to the exact second the clock hits 12. Those who want to be the first to wish you, not because you’re some kind of celebrity. It’s just because they care. There are those who spent time in making those collages for you. Took time to post a picture on your wall. Took time to call you. Took time to message you. In one way or another, made you realize that &lt;em&gt;Hey we are here for you&lt;/em&gt;. Then there are also those people who wish you a little late - maybe only a few hours after you end. They feel ashamed. They apologize. They shouldn’t really. It’s not their duty to wish you a Happy Birthday. Again, if they feel sorry for not wishing you on time, they are amazing people. Hold on to them.&lt;/p&gt;
+
+&lt;p&gt;There’s also another very special group of people. Those who wish you IRL (In Real Life). Those who come to see you and hug you and wish you a happy birthday. They don’t need to first, because they are there. Right in front of you. You can touch them and hug them and kiss them and whatever. An emoji may do a lot but it can never do what a real hug can.&lt;/p&gt;
+
+&lt;p&gt;I’ve been blessed with all of these people. I had over a 100 people wish me this year. A 100 people. That’s big for me. I’m no celebrity. I’m just a regular teenager but still. I had over 5 people who rushed to be first. I had people who took time to post pictures. People who took time to write something for me. People who texted or called me. Those who posted a Snapchat story. Those who just sent me a Happy Birthday tweet. People used all sorts of ways. Some went out of their way to make this birthday really special. They drove to my house using Google Maps ( they didn’t know where I live ) following me through the location service powered by WhatsApp. It was a big step. It could’ve been wrong. There was more chance of failure than anything else. Location services are unreliable. Everyone knows that, but they still tracked me down, surprised me, ruined my clothes by hitting me with over a dozen eggs, and bought a cake for me. This is how much they cared. There were people who were late, but I don’t mind. They still cared enough to wish me. That’s all that matters.&lt;/p&gt;
+
+&lt;p&gt;This really helped me realize that over the last 18 years, I’ve met some &lt;em&gt;crazy&lt;/em&gt; people and have made a lot of faithful friends.&lt;/p&gt;
+
+&lt;p&gt;So the TL;DR version of this post would be, “Thank You for wishing me on my Birthday! I truly love you for that - even if you were late or you never did, don’t worry, I still do :)”&lt;/p&gt;
+
+&lt;h3 id=&quot;thank-you-for-the-wishes-everyone-cant-wait-for-next-year&quot;&gt;Thank You for the wishes everyone! Can’t wait for next year&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 31 Mar 2016 16:12:00 +0500</pubDate>
+        <link>/2016/03/31/finally-18.html</link>
+        <guid isPermaLink="true">/2016/03/31/finally-18.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Coffee and Me</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://static.pexels.com/photos/6347/coffee-cup-working-happy.jpg&quot; alt=&quot;Coffee and Me&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always had a weird relationship with coffee.&lt;/p&gt;
+
+&lt;p&gt;As soon as I finish a cup, I’m going to get sleepy - &lt;em&gt;really&lt;/em&gt; sleepy! I won’t be able to keep my eyes open and if I lie down, I’ll fall asleep. It has the exact opposite effect on me, &lt;strong&gt;but&lt;/strong&gt;, around an hour later, It’ll work it’s magic - I’ll be wide awake, unable to sleep.&lt;/p&gt;
+
+&lt;p&gt;I had Coffee around 9PM. As soon as I gulped it down, like some kind of immediate effecting drug you see in the movies, I started getting sleepy. So much sleepy that I dropped my phone from my hand. At 10PM, again like the previous pill but with the exact opposite effect, I’m wide awake. No more yawning, no more of my eyes closing, no more of dropping my phone because I dozed off for a second.&lt;/p&gt;
+
+&lt;p&gt;Now I’m awake - &lt;em&gt;wide awake&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s 2:31AM as I write this. I woke up at 6AM the previous day, like I do everyday ( I don’t know why, I just do! ). I’ve had only about 6 hours of sleep in the last 25 hours ( approximately ).&lt;/p&gt;
+
+&lt;p&gt;I have two ways to go to sleep right now, have another cup of coffee so that I fall asleep instantly and wake up at 6 ( in about 4 hours), or I just wait for sweet sweet sleep to come while I read article after article online. I could also execute both of them but I don’t want to end up sleeping with my head on my keyboard ( it isn’t very comfortable )&lt;/p&gt;
+
+&lt;p&gt;Either way, I’m going to end up sleeping &lt;em&gt;somewhere&lt;/em&gt; and &lt;em&gt;somehow&lt;/em&gt; but I’ll still be up at 6AM. I don’t really know why, but my body refuses to sleep after that time. It’s still a mystery to me why this happens and if any one of you is a professional in this field ( or just knowledgeable ), feel free to discuss this with me in the comments below or on &lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 27 Mar 2016 02:22:00 +0500</pubDate>
+        <link>/2016/03/27/coffee-and-me.html</link>
+        <guid isPermaLink="true">/2016/03/27/coffee-and-me.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blogging Depression</title>
+        <description>&lt;p&gt;I have’t been able to post anything lately even though I wanted to.&lt;/p&gt;
+
+&lt;p&gt;At first it was because I was running into problems with Jekyll ( more on this &lt;a href=&quot;https://medium.com/@ammarshah/why-is-my-blog-inactive-jekyll-problems-24b325e1bd26#.np9ykrjnb&quot;&gt;here&lt;/a&gt; ), but more recently due to depression - blogging depression.&lt;/p&gt;
+
+&lt;p&gt;During the period of time when I couldn’t post, I went through the blog. It was really disappointing. This was not the blog I had envisioned. I started this blog, with the intention of it being my brain on the web but it has turned into a pile of excuses for not posting and no relevant content whatsoever. This didn’t feel like my blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This was not my blog&lt;/strong&gt;, at least not the one I wanted it to be.&lt;/p&gt;
+
+&lt;p&gt;It’s my fault really. I thought this blog could be anything but I was wrong. If this blog tries to be everything, it will turn into nothing, like it did.&lt;/p&gt;
+
+&lt;p&gt;This blog felt wrong to me as I read it back. I constantly thought what is this blog even about. The best thing I could come up with was that this was an excuse blog. You get an excuse with every post.&lt;/p&gt;
+
+&lt;p&gt;The most this blog ever got to what I wanted it to be was during my &lt;a href=&quot;/2015/12/12/isl-trip/&quot;&gt;winter trip to Islamabad&lt;/a&gt; a few months ago. That was just me writing about my day, what I did. Writing those posts were fun. It was as if I was inviting the reader to explore with me. That was what I wanted this blog to be. No, not a travel blog, but my brain. This blog is a digital representation of me. So far, it portrays me as a messed up person who makes too many excuses.&lt;/p&gt;
+
+&lt;p&gt;Over the last few weeks, I got really sick of this blog. &lt;strong&gt;I hated my own blog!&lt;/strong&gt; I couldn’t get myself to post.&lt;/p&gt;
+
+&lt;p&gt;So, it was time to make changes.&lt;/p&gt;
+
+&lt;p&gt;The first thing I did, was open up Google Docs and layed out my blogging plan. I wrote about all the things I want to write about and distributed them to blogs according to their topic. One thing I straight out got of it was that I need &lt;em&gt;at least&lt;/em&gt; one more blog for my code life.&lt;/p&gt;
+
+&lt;p&gt;I wasted no time in creating a new blog, “&lt;a href=&quot;http://ammarcodes.blogspot.com/&quot;&gt;Ammar Codes&lt;/a&gt;”. So far I’ve made 3 posts on that blog. If you ever read my blog for the code/tech stuff, you should go there.&lt;/p&gt;
+
+&lt;p&gt;That left behind this blog - &lt;em&gt;what was I going to post on this blog?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I really wanted this blog to be a representation of me. I love reading, watching movies/shows, food, travelling and a lot of other things. That was all a part of my life, so there was my answer, I turned this blog into a lifestyle blog.&lt;/p&gt;
+
+&lt;p&gt;Now what exactly does that mean? Well it means that this blog is going to be a mix or reviews, recommendations and travel logs. I’ll also be posting the occasional thoughts on a matter. So in short, if it’s happening in my life it’s on my blog.&lt;/p&gt;
+
+&lt;p&gt;I’m sure over time I’ll turn this into the blog I had originally planned. To ensure that, I’ve actually made a few rules.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No stock imagery&lt;/strong&gt;. I’m going to use images I took/own or I won’t use them at all.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No schedule&lt;/strong&gt;. I’m not going to burden myself into posting regularly. I might post once a month or 3 times in a week. This way, I won’t have to excuse myself for not posting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No click bait&lt;/strong&gt;. This is serious. I don’t want to use click bait headlines to get people to read.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m also dropping the blog name. The blog doesn’t need a name. If it’s representing me, it will bear the same name as me. This transaction will take place once I shift my blog over to WordPress and buy the domain.&lt;/p&gt;
+
+&lt;p&gt;Well that’s all for now, best of luck to all of you!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Mar 2016 09:47:00 +0500</pubDate>
+        <link>/2016/03/05/blogging-depression.html</link>
+        <guid isPermaLink="true">/2016/03/05/blogging-depression.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The android app by Microsoft to help you wake up on time</title>
+        <description>&lt;p&gt;Yes you read that correctly - an Android app by Microsoft.&lt;/p&gt;
+
+&lt;p&gt;The app is an alarm clock!&lt;/p&gt;
+
+&lt;p&gt;What’s special about this particular clock is that it does not just let you cancel your alarm - You have to play a game to turn it off!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft1.jpg&quot; alt=&quot;App home&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The way it works is that when your alarm goes off, you are given two options you can swipe too - swipe left for snooze and swipe right to cancel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft2.jpg&quot; alt=&quot;App options to swipe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you swipe left, you get a five minutes snooze.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft3.jpg&quot; alt=&quot;Snooze&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you swipe right, you are presented with a small game - different every time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/alarmMicrosoft4.jpg&quot; alt=&quot;Play the game&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting up an alarm is fairly simple and self explanatory.&lt;/p&gt;
+
+&lt;p&gt;I played around with a while and got quite interesting little things that would require me to either get out of bed, focus or turn on the light.&lt;/p&gt;
+
+&lt;p&gt;If you fail at the game, the alarm goes back to it’s previous state, that is the swipe part.&lt;/p&gt;
+
+&lt;p&gt;This is quite an interesting app as you &lt;strong&gt;can not&lt;/strong&gt; turn the alarm off in your sleep.&lt;/p&gt;
+
+&lt;p&gt;This app is actually a part of Microsoft’s AI project, &lt;a href=&quot;https://www.projectoxford.ai/&quot;&gt;Project Oxford&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re someone who has trouble waking up, you might wanna try this app.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.microsoft.mimickeralarm&quot;&gt;You download this app to your phone from here&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Jan 2016 10:43:00 +0500</pubDate>
+        <link>/2016/01/23/alarm-microsoft-youll-hate.html</link>
+        <guid isPermaLink="true">/2016/01/23/alarm-microsoft-youll-hate.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CS50x 2016</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/CS50.jpg&quot; alt=&quot;CS50x&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2016/01/01/new-year/&quot;&gt;It’s 2016!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a new year, which means new goals, new things to focus on. Last year, &lt;a href=&quot;/2015/07/25/leaving-cs50x&quot;&gt;I left CS50&lt;/a&gt;. This year, I plan on ending what I started.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-cs50x&quot;&gt;What’s CS50x?&lt;/h2&gt;
+
+&lt;p&gt;According to the site, CS50 is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. As of Fall 2015, the on-campus version of CS50x, CS50, was Harvard’s largest course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;em&gt;“x”&lt;/em&gt; refers to the online version of the &lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x&quot;&gt;course on edx&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-it&quot;&gt;Back to it&lt;/h2&gt;
+
+&lt;p&gt;As I already said above, I started CS50x 2015 but &lt;a href=&quot;/2015/07/25/leaving-cs50x&quot;&gt;I quit&lt;/a&gt;, later on, promising to come back next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Well it’s next year and time for me to fulfill my promise!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So on January 1st, 2016, I signed up for CS50x 2016.&lt;/p&gt;
+
+&lt;h2 id=&quot;current-progress&quot;&gt;Current Progress&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I tweet about my progress on &lt;a href=&quot;https://twitter.com/AmmarAliShahK&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As of right now, I’m done with Week 0 and pset 0.&lt;/p&gt;
+
+&lt;p&gt;I’m done with Week 1 lectures and am yet to start cracking pset 1 - hopefully I’ll do that today.&lt;/p&gt;
+
+&lt;p&gt;That’s all for now.&lt;/p&gt;
+
+&lt;p&gt;I’m aiming to get done with this, &lt;em&gt;this time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Till next week then!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jan 2016 07:50:00 +0500</pubDate>
+        <link>/2016/01/10/cs50x-2016.html</link>
+        <guid isPermaLink="true">/2016/01/10/cs50x-2016.html</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>
